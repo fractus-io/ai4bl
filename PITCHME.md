@@ -1,4 +1,4 @@
-# Artificial Intelligence for Business Leaders
+## Artificial Intelligence for Business Leaders
 
 ---
 
