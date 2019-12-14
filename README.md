@@ -8,12 +8,12 @@ Table of Contents
 
 #### Introduction
 
-* [What is AI]
+* [What is AI](#WhatIsArtificialIntelligence)
   * [What is Artificial Intelligence](#WhatIsArtificialIntelligence)
   * [Applications of AI](#ApplicationsOfAI)
   * [Companies that use AI](#CompaniesThatUseAI)
   * [The future prospect of AI](#TheFutureProspectOfAI)
-* [History of AI]
+* [History of AI](#HistoryofAI)
   * [Introduction](#hoai-Introduction)
   * [The rise of robotics and AI](#TheRiseOfRoboticsAndAI)
   * [The AI Winters](#TheAIWinters)
@@ -61,7 +61,7 @@ Table of Contents
 * [How can IoT AI assist in improving life quality for people with special needs](/tutorials/ai4bl/ai-iot) 
 
 
-## What is AI
+## <a id="WhatIsArtificialIntelligence"></a>What is AI
 
 ###  <a id="WhatIsArtificialIntelligence"></a>What is Artificial Intelligence 
 
@@ -157,7 +157,7 @@ In fact, even when in a retail store, over 60% of people surveyed said they woul
 ssistant. As new technology like driverless cars come into play, this lack of trust could start a societal breakdown of sorts which is perhaps 
 why we are holding back just a bit with such game changers. 
 
-## History of AI
+## <a id="HistoryofAI"></a>IntroductionHistory of AI
 
 ###  <a id="hoai-Introduction"></a>Introduction
 
