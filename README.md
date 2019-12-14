@@ -8,18 +8,18 @@ Table of Contents
 
 #### Introduction
 
-* [What is AI](/tutorials/ai4bl/what-is-ai)
+* [What is AI]
   * [What is Artificial Intelligence](#WhatIsArtificialIntelligence)
   * [Applications of AI](#ApplicationsOfAI)
   * [Companies that use AI](#CompaniesThatUseAI)
-  * [The future of AI](#TheFutureOfAI)
-* [History of AI](/tutorials/ai4bl/history-of-ai)
-  * [Introduction](#Introduction)
+  * [The future prospect of AI](#TheFutureProspectOfAI)
+* [History of AI]
+  * [Introduction](#hoai-Introduction)
   * [The rise of robotics and AI](#TheRiseOfRoboticsAndAI)
   * [The AI Winters](#TheAIWinters)
   * [New Opportunities for AI](#NewOpportunitiesForAI)
-* [Future of the AI](/tutorials/ai4bl/future-of-ai)
-  * [Introduction](#Introduction)
+* [Future of the AI]
+  * [Introduction](#foai-Introduction)
   * [The future of AI – beyond expectation](#TheFutureOfAIBeyondExpectation)
   * [Computing Power](#ComputingPower)
   * [Emerging Technology](#EmergingTechnology)
@@ -61,7 +61,7 @@ Table of Contents
 * [How can IoT AI assist in improving life quality for people with special needs](/tutorials/ai4bl/ai-iot) 
 
 
-
+## What is AI
 
 ###  <a id="WhatIsArtificialIntelligence"></a>What is Artificial Intelligence 
 
@@ -144,7 +144,7 @@ AI applications are used in almost every company that we interact with. Here are
 			   Messenger is now a conversational chatbot used by major companies to complete retail actions without any human involvement. 
 			   Facebook has utilised the purchase of WhatsApp to get a great understanding of how people converse. 
 
-###  <a id="TheFutureOfAI"></a>The future of AI 
+###  <a id="TheFutureProspectOfAI"></a>The future prospect of AI 
 
 At the moment, we are only really at the start of an AI revolution. 
 Applications like machine learning are still relatively new outside the big enterprises and have only been deployed as a very light touch. 
@@ -152,13 +152,14 @@ However, that said, many of the applications seem so normal that we don’t even
 Talking to Alexa to turn on your lights has become standard in some households. 
 In the future, the same will most likely happen with driverless cars and robotics but we are a little way off that yet.   
 
-
 What is becoming quite scary is that humans are beginning to trust AI applications more than another human. 
 In fact, even when in a retail store, over 60% of people surveyed said they would rather use their SmartPhone to answer questions than ask a human a
 ssistant. As new technology like driverless cars come into play, this lack of trust could start a societal breakdown of sorts which is perhaps 
 why we are holding back just a bit with such game changers. 
 
-###  <a id="Introduction"></a>Introduction
+## History of AI
+
+###  <a id="hoai-Introduction"></a>Introduction
 
 We tend to see artificial intelligence (AI) as a brand new development but the history books would tell us otherwise. 
 No longer the domain of science fiction, robotics and artificial intelligence and becoming important business drivers. 
@@ -250,7 +251,9 @@ In fact, for all the history of AI, the last ten years have been huge, creating 
 It is difficult to imagine life without AI in the modern digital world. This is quite an amazing feat when we considered the tumultuous times of the 
 last century.
 
-###  <a id="Introduction"></a>Introduction 
+## Future of the AI
+
+###  <a id="foai-Introduction"></a>Introduction 
 
 Artificial Intelligence (AI) is not a new innovation, although it certainly feels like it. 
 Its origins are usually dated back to the 1920s when the term “robot” was first coined but it came into prominence during the Second World War 
