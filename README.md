@@ -99,6 +99,21 @@ Table of Contents
 	* [FinancialServices](#FinancialServices)
 	* [Summary](#Summary)
 
+*[Speech Recognition](#SpeechRecognition)
+	* [Introduction](#sr-Introduction)
+	* [The History of Speech Recognition](#TheHistoryOfSpeechRecognition)
+		* [Pre 1970’s](#Pre1970s)
+		* [1970-1980](#1970-1980)
+		* [1980-1990](#1980-1990)
+		* [1990-2000](#1990-2000)
+		* [Post – 2000](#Post – 2000
+	* [Use-cases of Speech Recognition](#)
+		* [Telecommunication](#ucosr-Telecommunication)
+		* [Education](#ucosr-Education)
+		* [Business](#usosr-Business)
+		* [Daily Life](#ucosr-DailyLife)
+	* [Conclusion](#sr-Conclusion)
+
 #### How AI is changing industry
 
 * [Using Data and AI in Telecoms]
