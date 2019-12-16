@@ -58,27 +58,27 @@ Table of Contents
 	
 #### Who is who in AI
 
-* [The Godfathers of AI]
-	* [Introduction](#Introduction)
+* [The Godfathers of AI](#TheGodfathersOfAI)
+	* [Introduction](#tgoai-Introduction)
 	* [Andrew Ng](#AndrewNg)
 	* [Geoffrey Hinton](#GeoffreyHinton)
 	* [Yann LeCun](#YannLeCun)
 	* [Ian Goodfellow](#IanGoodfellow)
 	* [Fei-Fei Li](#FeiFeiLi)
-* [Big Companies and AI]
-	* [Introduction](#Introduction)
+* [Big Companies and AI](#BigCompaniesAndAI)
+	* [Introduction](#bcaai-Introduction)
 	* [Google](#Google)
 	* [Amazon](#Amazon)
 	* [Facebook](#Facebook)
 	* [Apple](#Apple)	
-* [The AI Startups Scene]
-	* [Introduction](#Introduction)
+* [The AI Startups Scene](#TheAIStartupsScene)
+	* [Introduction](#taiss-Introduction)
 	* [The startup scene](#TheStartupScene)
 	* [What are startups focussing on](#WhatAreStartupsFocussingOn)
 	* [The most successful AI startups](#TheMostSuccessfulAIStartups)
-	* [Summary](#Summary)	
-* [Autonomous Drive and AI]
-	* [Introduction](#Introduction)
+	* [Summary](#taiss-Summary)	
+* [Autonomous Drive and AI](#AutonomousDriveAndAI)
+	* [Introduction](#adaai-Introduction)
 	* [Waymo](#Waymo)
 	* [Tesla ](#Tesla)
 	* [Baidu Apollo](#BaiduApollo)
@@ -899,9 +899,9 @@ To make the most of these powerful efficiencies, AI should be considered as a me
 
 # Who is who in AI
 
-## The Godfathers of AI
+## <a id="TheGodfathersOfAI"></a>The Godfathers of AI
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="tgoai-Introduction"></a>Introduction
 
 With so much press and hype surrounding artificial intelligence (AI) and its applications over recent years, it is very difficult to keep 
 track of everything that is going on. 
@@ -986,9 +986,9 @@ Amongst her portfolio is the ImageNet project which has revolutionised the field
 Many see the work as a catalyst to the current AI boom. 
 
 
-## Big Companies and AI
+## <a id="BigCompaniesAndAI"></a>Big Companies and AI
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="bcaai-Introduction"></a>Introduction
 
 Artificial intelligence (AI) is the new weapon that is starting to define how large companies compete with each other. 
 The Big Four or GAFA (Google, Amazon, Facebook, Apple) companies have had an advantage of large budgets, talented resource pools and vast amounts of 
@@ -1247,9 +1247,9 @@ Although Apple are, and for the foreseeable future will be a huge power in the t
 lacking against their core competition. They need to think about releasing something big soon at the risk of falling short where 
 Google, Amazon and Facebook are all powering ahead.
 
-## The AI Startups Scene
+## <a id="The AIStartupsScene"></a>The AI Startups Scene
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="taiss-Introduction"></a>Introduction
 
 Artificial Intelligence (AI) investments and developments have grown in earnest since the start of the 21st century. 
 With so many different applications across data, robotics, deep learning, IT and IoT, there is a huge opportunity for business offering innovative 
@@ -1330,16 +1330,16 @@ The list could be endless and a quick Google search for Top AI companies gives y
 It is worth reviewing which ones can work best for you and ensuring they offer genuine AI potential and not simply hype.
 
 
-###  <a id="Summary"></a>Summary
+###  <a id="taiss-Summary"></a>Summary
 
 It is no secret that AI is big business. With so many startups in the space, it is important to be strategic and pick the right ones for you. 
 Many will be industry specific and you must be sure they can adapt to ever changing business needs in a fast-paced digital economy. 
 AI is where the future lies. 
 
  
-## Autonomous Drive and AI
+## <a id="AutonomousDriveAndAI"></a>Autonomous Drive and AI
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="adaai-Introduction"></a>Introduction
 
 When thinking of autonomous cars, many of us jump straight to David Hasselhoff talking to Kit in the 1980s 
 (for the Millennials, just Google Knight Rider!).  This type of driverless car is the dream and, depending on which report you read, 
