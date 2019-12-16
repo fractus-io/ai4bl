@@ -30,31 +30,31 @@ Table of Contents
 
 #### Understand AI
 
-* [AI, Machine Learning and Deep Learning]
-	* [Introduction](#Introduction)
+* [AI, Machine Learning and Deep Learning](#AIMachineLearningAndDeepLearning)
+	* [Introduction](#aimladl-Introduction)
 	* [What Is Machine Learning ?](#WhatIsMachineLearning)
 	* [What Is Deep Learning ?](#WhatIsDeepLearning)
-	* [Conclusion](#Conclusion)
-* [Machine Learning Algorithms]
-	* [Introduction](#Introduction)
+	* [Conclusion](#aimladl-Conclusion)
+* [Machine Learning Algorithms](#MachineLearningAlgorithms)
+	* [Introduction](#mla-Introduction)
 	* [Machine Learning Algorithms](#MachineLearningAlgorithms)
-* [Neural Networks]
-	* [Introduction](#Introduction)
+* [Neural Networks](#NeuralNetworks)
+	* [Introduction](#nn-Introduction)
 	* [Types Of The Neural Networks](#TypesOfTheNeuralNetworks)
-	* [Summary](#Summary)
-* [Why AI is taking off]
-	* [Introduction](#Introduction)
+	* [Summary](#nn-Summary)
+* [Why AI is taking off](WhyAIIsTakingOff)
+	* [Introduction](#waiito-Introduction)
 	* [AI Is Only Just Starting](#AIIsOnlyJustStarting)
 	* [AI Deployments Will Continue To Accelerate](#AIDeploymentsWillContinueToAccelerate)
-* [How AI can benefit your organization]
-	* [Introduction](#Introduction)
+* [How AI can benefit your organization](#HowAICanBenefitYourOrganization)
+	* [Introduction](#haicbyo-Introduction)
 	* [Customer Experience And Service](#CustomerExperienceAndService) 
 	* [Business Process Automation](#BusinessProcessAutomation)
 	* [Cost Reductions And Operational Efficiency](#CostReductionsAndOperationalEfficiency)
 	* [Data Security And Fraud](#DataSecurityAndFraud)
 	* [Predictive Analytics](#PredictiveAnalytics)
 	* [Staff Training](#StaffTraining)
-	* [Summary](#Summary)
+	* [Summary](#haicbyo-Summary)
 	
 #### Who is who in AI
 
@@ -473,9 +473,9 @@ Ultimately, we will interact digitally making everyday life far more efficient t
 
 # Understand AI
 
-## AI, Machine Learning and Deep Learning
+##  <a id="AIMachineLearningAndDeepLearning"></a>AI, Machine Learning and Deep Learning
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="aimladl-Introduction"></a>Introduction
 
 Although Artificial Intelligence (AI) has been around for some time, it is still common to get caught up in the buzz without truly understanding 
 what it means. People think that AI is a robot that can do things a smart person would, knowing everything and being able to answer every question. 
@@ -569,7 +569,7 @@ own is incredible.
 There are many types of neural network that are used for different applications. 
 
 
-###  <a id="InConclusion"></a>In Conclusion
+###  <a id="aimladl-Conclusion"></a>Conclusion
 
 Narrow AI can be seen everywhere from GPS systems to Alexa and recommendation platforms. 
 Machine learning and deep learning have benefitted from large investments at the start of the 21st century as consumers seek ways to 
@@ -579,9 +579,9 @@ However, the ultimate goal is artificial general intelligence, a self-teaching s
 It is thought that this could be 30 years away or some say as long as a century but as computing power and data evolve, we will continue 
 to see more amazing developments.
 
-## Machine Learning Algorithms
+## <a id="MachineLearningAlgorithms"></a>Machine Learning Algorithms
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="mla-Introduction"></a>Introduction
 
 In our previous article, we gave an overview of the difference between artificial intelligence (AI) and its subsets known as machine learning (ML) and 
 deep learning (DL). 
@@ -660,9 +660,9 @@ This algorithm filters and predicts user ratings and preference by using collabo
 The most popular examples of how this is used in the real-world are Netflix, Spotify and Amazon. 
 In essence, it makes recommendations based on how different pieces of data have been classified e.g. genre in Netflix. 
 
-## Neural Networks
+## <a id="NeuralNetworks"></a> Neural Networks
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="nn-Introduction"></a>Introduction
 
 Whilst neural networks are not as complex as somebody starting out in Data Science might think, it would be wrong to say they are simple to learn. 
 These deep learning networks will transform data until it can be classified into an output. 
@@ -709,7 +709,7 @@ The neural network is used for text classification texts, machine translation an
 A modular network is one composed of more than one neural network, connected by some intermediary. They can allow for more sophisticated use of basic neural network systems managed and handled in conjunction. Each individual network within the model should hope to accomplish some subtask of the wider objective. 
 
 
-###  <a id="Summary"></a>Summary
+###  <a id="nn-Summary"></a>Summary
 
 We have provided a brief overview of popular machine learning algorithms and types of neural network. 
 The technology and scripting behind them is of course far more technical than can be explained in a short article and does require previous 
@@ -717,9 +717,9 @@ experience in mathematics and data science fields.
 
 However, for anybody beginning an AI journey, knowing about how these models function is important and it is worth getting to know them in more detail.
   
-## Why AI is taking off
+## <a id="WhyAIIsTakingOff"></a>Why AI is taking off
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="waiito-Introduction"></a>Introduction
 
 The term Artificial Intelligence (AI) has been around for a long time. 
 It was coined by John McCarthy in the 1950s and he is considered one of the founding fathers of AI alongside Marvin Minsky.  
@@ -805,9 +805,9 @@ With the data available, potential computing power and democratisation of system
 
 Following that, we may be able to set our sights on AGI but we are some way off that kind of singularity just yet. 
 
-## How AI can benefit your organization
+## <a id="HowAICanBenefitYourOrganization"></a>How AI can benefit your organization
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="haicbyo-Introduction"></a>Introduction
 
 There is a huge buzz around artificial intelligence (AI) and its subsets such as machine learning and natural language processing. 
 This hype has largely been created by the transformational impact it is having on businesses. 
@@ -887,7 +887,7 @@ months to learn. AI has been shown to cut this in half by presenting content to 
 This could include the order they learn items in, the length of time between when learners are presented with repeat information or the 
 type of material such as written, visual and audio. Training is both more useful and enjoyable. 
 
-###  <a id="Summary"></a>Summary
+###  <a id="haicbyo-Summary"></a>Summary
 
 Whilst many applications are still relatively immature, companies need to prepare for investment in AI if they are going to keep up with the 
 competition. It should be made clear that AI is not going to replace humans but instead, it will provide the technology to run monotonous, 
