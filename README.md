@@ -1653,7 +1653,7 @@ Some industries are certainly ahead of other when it comes to computer vision te
 Right now, as the public still comes to terms with trusting machines over human interpretation, computer vision technology still requires supervision. There are no major use cases where it can completely replace human resource. For example, whilst some cars are driverless, they still have a human at the wheel supervising what happens. 
 In the future, as we tweak and research computer vision, it is possible that some applications can completely eradicate the need for human input. 
 
-## <a id="Speech Recognition"></a>Speech Recognition
+## <a id="sr-SpeechRecognition>Speech Recognition
 
 
 ### <a id="sr-Introduction"></a>Introduction
