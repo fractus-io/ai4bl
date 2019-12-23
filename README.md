@@ -1,5 +1,4 @@
 
-
 Artificial Intelligence for Business Leaders
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/fractus-io/ai4bl/master?grs=github&t=white)
@@ -111,7 +110,7 @@ Table of Contents
 	* [Use Cases of the Speech Recognition](#UseCasesOfTheSpeechRecognition)
 		* [Telecommunication](#ucosr-Telecommunication)
 		* [Education](#ucosr-Education)
-		* [Business](#usosr-Business)
+		* [Business](#ucosr-Business)
 		* [Daily Life](#ucosr-DailyLife)
 	* [Conclusion](#sr-Conclusion)
 
