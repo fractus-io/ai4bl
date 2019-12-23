@@ -1,4 +1,5 @@
 
+
 Artificial Intelligence for Business Leaders
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/fractus-io/ai4bl/master?grs=github&t=white)
@@ -1667,7 +1668,7 @@ This article will provide an overview of the history of speech recognition and t
 In addition, different practical use-cases will be discussed, 
 indicating the large influence speech recognition technology has had on a wide range of industries.
 
-### <a id="#TheHistoryOfSpeechRecognition"></a>The History of Speech Recognition
+### <a id="TheHistoryOfSpeechRecognition"></a>The History of Speech Recognition
 
 Whereas Artificial Intelligence and machine learning have had a profound effect on the performance of speech recognition software, 
 the core technology actually dates back to the early 50’s. 
@@ -1690,7 +1691,7 @@ The machine was equipped with a microphone and a display which contained lamps t
 through the microphone. 
 However, there still remained a long road to transform this speech recognition innovation into a commercially feasible product.
 
-#### <a id="#1970-1980"></a>1970-1980
+#### <a id="1970-1980"></a>1970-1980
 
 Research in the field of speech recognition halted after IBM’s shoebox invention in 1962. The main reason
 for this was the open letter from the influential John Pierce in which he criticized the practical feasibility
@@ -1709,7 +1710,7 @@ understanding research program. Whereas previously, speech recognition systems n
 on the voice of an individual person, Bell Laboratories developed a system that was able to understand
 voices of more than one person.
 
-#### <a id="#1980-1990"></a>1980-1990
+#### <a id="1980-1990"></a>1980-1990
 
 The 80’s were characterized by a major breakthrough in speech recognition technology due to the
 development of so-called hidden Markov models (HMM). Hidden Markov models are statistical models
@@ -1723,7 +1724,7 @@ being typed out on paper. Although the machine could only understand the voice o
 was trained on and recognized only a small part of the full English vocabulary, it allowed one to get a
 glimpse of the future possibilities and implementations of the voice recognition technology.
 
-#### <a id="#1990-2000"></a>1990-2000
+#### <a id="1990-2000"></a>1990-2000
 
 Up until the 90’s, voice recognition systems operated rather slow due to the limited computational power
 that was available at that time. However, the widespread introduction of 64-bit microprocessors in the
@@ -1736,7 +1737,7 @@ world’s first speech recognition software for consumers. The software, develop
 ‘Dragon’ and called ‘Dragon Dictate’, was able to recognize up to 100 words per minute, which is close to
 regular speaking rates of 100 to 150 words per minute.
 
-#### <a id="#Post-2000"></a>Post – 2000
+#### <a id="Post-2000"></a>Post – 2000
 
 The early years of the new millennium were characterized by a plateau in speech recognition development
 and the technology was still being dominated by traditional approaches such as hidden Markov models.
@@ -1759,7 +1760,7 @@ interact with their devices in a more convenient way. As the technology advances
 a future where machine-interaction will be governed more and more by means of spoken language rather
 than touch-based interaction.
 
-### <a id="#UseCasesOfTheSpeechRecognition"></a>Use-cases of Speech Recognition
+### <a id="UseCasesOfTheSpeechRecognition"></a>Use-cases of Speech Recognition
 
 Far-evolved speech recognition software has found its way to all sorts of industries in order to reduce costs
 by means of automation, provide new revenue generating services or increase overall customer
