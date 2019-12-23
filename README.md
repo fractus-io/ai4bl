@@ -99,7 +99,7 @@ Table of Contents
 	* [FinancialServices](#cv-FinancialServices)
 	* [Summary](#cv-Summary)
 
-* [Speech Recognition](#SpeechRecognition)
+* [Speech Recognition](#sr-SpeechRecognition)
 	* [Introduction](#sr-Introduction)
 	* [The History of Speech Recognition](#TheHistoryOfSpeechRecognition)
 		* [Pre 1970’s](#Pre1970s)
@@ -1736,7 +1736,7 @@ world’s first speech recognition software for consumers. The software, develop
 ‘Dragon’ and called ‘Dragon Dictate’, was able to recognize up to 100 words per minute, which is close to
 regular speaking rates of 100 to 150 words per minute.
 
-#### <a id="#Post–2000"></a>Post – 2000
+#### <a id="#Post-2000"></a>Post – 2000
 
 The early years of the new millennium were characterized by a plateau in speech recognition development
 and the technology was still being dominated by traditional approaches such as hidden Markov models.
@@ -1845,7 +1845,7 @@ way expanding the field in which they operate. This is the case for the financia
 applications are being integrated which allow customers to pay bills by using voice-activated assistants
 such as Apple’s Siri.
 
-#### <a id="ucosr-Conclusion"></a>Conclusion
+#### <a id="sr-Conclusion"></a>Conclusion
 
 The world of speech recognition is rapidly changing and evolving, with new applications being discovered
 on a frequent basis. The future promises to bring a significant increase in speech recognition performance
