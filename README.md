@@ -1,4 +1,5 @@
 
+
 Artificial Intelligence for Business Leaders
 
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/fractus-io/ai4bl/master?grs=github&t=white)
@@ -86,28 +87,28 @@ Table of Contents
 
 #### AI Use Cases
 
-* [Computer Vision]
-	* [Introduction](#Introduction)
+* [Computer Vision](#ComputerVision)
+	* [Introduction](#cv-Introduction)
 	* [What is Computer Vision?](#WhatIsComputerVision)
 	* [Overview of Computer Vision](#OverviewOfComputerVision)
 	* [Data, data, data](#DataDataData)
 	* [Use cases for Computer Vision](#UseCasesForComputerVision)
-	* [Healthcare](#Healthcare)
-	* [Transportation](#Transportation)
-	* [Retail](#Retail)
-	* [Agriculture](#Agriculture)
-	* [FinancialServices](#FinancialServices)
-	* [Summary](#Summary)
+	* [Healthcare](#cv-Healthcare)
+	* [Transportation](#cv-Transportation)
+	* [Retail](#cv-Retail)
+	* [Agriculture](#cv-Agriculture)
+	* [FinancialServices](#cv-FinancialServices)
+	* [Summary](#cv-Summary)
 
-*[Speech Recognition](#SpeechRecognition)
+* [Speech Recognition](#SpeechRecognition)
 	* [Introduction](#sr-Introduction)
 	* [The History of Speech Recognition](#TheHistoryOfSpeechRecognition)
 		* [Pre 1970’s](#Pre1970s)
 		* [1970-1980](#1970-1980)
 		* [1980-1990](#1980-1990)
 		* [1990-2000](#1990-2000)
-		* [Post – 2000](#Post – 2000
-	* [Use-cases of Speech Recognition](#)
+		* [Post–2000](#Post–2000)
+	* [Use Cases of the Speech Recognition](#UseCasesOfTheSpeechRecognition)
 		* [Telecommunication](#ucosr-Telecommunication)
 		* [Education](#ucosr-Education)
 		* [Business](#usosr-Business)
@@ -1462,12 +1463,11 @@ the scepticism.
 The level 3 and 4 automation will definitely continue to prosper as AI becomes more a part of everyday life and it is expected 
 this will become available in the majority of city environments. 
 
-
 # AI Use Cases
 
-## Computer Vision
+## <a id="ComputerVision"></a>Computer Vision
 
-###  <a id="Introduction"></a>Introduction
+###  <a id="cv-Introduction"></a>Introduction
 
 Artificial Intelligence (AI) is revolutionising every day life and causing a positive disruption in several industries. 
 There are many applications of AI such as natural language processing (NLP) and machine learning (ML) but one of the key ones that 
@@ -1489,33 +1489,33 @@ like our eyes.
 
 Many popular computer vision applications involve trying to recognize things in photographs; for example:
 
-•	Object Classification: What broad category of object is in this photograph?
+*	Object Classification: What broad category of object is in this photograph?
 
-	o	Grouping items into different categories like animals, people or buildings could be a basic example of this.
+	*	Grouping items into different categories like animals, people or buildings could be a basic example of this.
 
-•	Object Identification: Which type of a given object is in this photograph?
+*	Object Identification: Which type of a given object is in this photograph?
 
-	o	If we know the image is classified as an animal, is it a dog or a cat?
+	*	If we know the image is classified as an animal, is it a dog or a cat?
 
-•	Object Verification: Is the object in the photograph?
+*	Object Verification: Is the object in the photograph?
 
-	o	Is the object we know as a dog or a cat in the image being presented?
+	*	Is the object we know as a dog or a cat in the image being presented?
 
-•	Object Detection: Where are the objects in the photograph?
+*	Object Detection: Where are the objects in the photograph?
 
-	o	Also known as “edge detection”, this works out the outer edge of a landscape to better identify what is in the image
+	*	Also known as “edge detection”, this works out the outer edge of a landscape to better identify what is in the image
 
-•	Object Landmark Detection: What are the key points for the object in the photograph?
+*	Object Landmark Detection: What are the key points for the object in the photograph?
 
-	o	Could be checking whether there are key patterns to recognising the object within the image? Shapes, colours and visual indicators.
+	*	Could be checking whether there are key patterns to recognising the object within the image? Shapes, colours and visual indicators.
 
-•	Object Segmentation: What pixels belong to the object in the image?
+*	Object Segmentation: What pixels belong to the object in the image?
 
-	o	Pieces of the image can be examined separately for a more accurate analysis
+	*	Pieces of the image can be examined separately for a more accurate analysis
 
-•	Object Recognition: What objects are in this photograph and where are they? 
+*	Object Recognition: What objects are in this photograph and where are they? 
 
-	o	Not only detecting that an image is there but specifically identifying what it is.
+	*	Not only detecting that an image is there but specifically identifying what it is.
 
 Applications of computer vision will often only need to incorporate one of these techniques. However, more advanced cases such as driverless cars 
 rely on several different methods to accomplish their goals. 
@@ -1550,12 +1550,12 @@ to train it to recognise what the objects might be.
 So, to find a cat, we wouldn’t just be telling a computer to search for whiskers and pointy ears. Millions of photos defining a cat or dog would be 
 uploaded for the model to learn on its own the types of features that make each of them up. 
 
-###  <a id="UseCasesForComputerVision"></a>Use cases for Computer Vision
+###  <a id="UseCasesForComputerVision"></a>Use Cases for Computer Vision
 
 We know what computer vision does and some of the different types but the key to any application of artificial intelligence comes with ensuring 
 we can put it into practice.  Here are some case studies reviewing how computer vision is changing the face of different industries. 
 
-###  <a id="Healthcare"></a>Healthcare
+###  <a id="cv-Healthcare"></a>Healthcare
 
 Using computer vision in healthcare is simultaneously one of the most ground-breaking and the most controversial developments in the 
 industry (we’ll come on to this shortly). Using machine vision, AI vendors are able to create applications that diagnose patients as well as 
@@ -1600,7 +1600,7 @@ images to be accurate, depicting all kinds of different states for the sponge.
 In trials, Triton has been more accurate in determining the loss of blood during a C section than human counterparts. 
 Those whose surgeries involved Triton experienced a shorter stay in hospital. 
 
-###  <a id="Transportation"></a>Transportation
+###  <a id="cv-Transportation"></a>Transportation
 
 Most of us will be aware of the promise of driverless or autonomous vehicles. Innovations in computer vision are brining that sci-fi fantasy much 
 closer to reality. 
@@ -1617,7 +1617,7 @@ With more than one million people killed in car accidents every year, detecting 
 lives whereby many incidents are caused by human error. For example, if the camera notices a cyclist raise their arm, computer vision will 
 ascertain if there is a genuine signal of intent and create an action accordingly e.g. to slow down. 
 
-###  <a id="Retail"></a>Retail
+###  <a id="cv-Retail"></a>Retail
 
 Amazon have trialled using computer vision to have fully automated stores that don’t require staff. The Amazon Go stores have facial recognition 
 cameras at the entrance and tracks each person as they go through the store. It recognises if that person removes something from a shelf or 
@@ -1629,7 +1629,7 @@ software is blocked in some way.
 
 Once the minor glitches have been fixed, we could easily begin to see a host of computer vision operated stores popping up globally. 
 
-###  <a id="Agriculture"></a>Agriculture
+###  <a id="cv-Agriculture"></a>Agriculture
 
 We don’t always think about agriculture as an industry that is ripe for disruption. However, it is one of those that has been employing computer 
 vision technology to optimise operational efficiency to good effect. 
@@ -1641,19 +1641,221 @@ infestation or slow growth.
 Computer vision models are loaded with millions of images showing what good and bad growth look like so it can classify multiple states. 
 The data is filtered into analytics systems that provides insights allowing farmers to take actions and save their crops. 
 
-###  <a id="FinancialServices"></a>Financial Services
+###  <a id="cv-FinancialServices"></a>Financial Services
 
 
 Banks are increasingly turning to computer vision technology to remove the risk of fraudulent activity. This includes using fingerprint or retina scans as a method for customers to login to their accounts which are becoming commonplace in applications. 
 As well as this, customers needing to deposit a cheque have the option to scan it and sending it to the bank where it gets authorised by their software. 
 
-###  <a id="Summary"></a>Summary
+###  <a id="cv-Summary"></a>Summary
 
 
 Some industries are certainly ahead of other when it comes to computer vision technology, but we are starting to see a greater adoption across the board as companies begin to realise the ground-breaking potential. 
 Right now, as the public still comes to terms with trusting machines over human interpretation, computer vision technology still requires supervision. There are no major use cases where it can completely replace human resource. For example, whilst some cars are driverless, they still have a human at the wheel supervising what happens. 
 In the future, as we tweak and research computer vision, it is possible that some applications can completely eradicate the need for human input. 
 
+## <a id="Speech Recognition"></a>Speech Recognition
+
+
+### <a id="sr-Introduction"></a>Introduction
+
+Artificial Intelligence (AI) and machine learning are paving the way for the creation of new, innovative technologies which can be deployed in many industries. 
+One of the technologies that experienced a big leap forward is Speech Recognition, also commonly referred to as Speak Recognition or Voice Recognition. 
+Speech recognition is the ability of a machine or program to receive, process and interpret spoken sentences. 
+
+Usually, the machine is equipped with the hardware capabilities to provide auditory feedback, allowing for a person to communicate with it by means of a spoken conversation. 
+This article will provide an overview of the history of speech recognition and the role artificial intelligence has had on its further development. 
+In addition, different practical use-cases will be discussed, 
+indicating the large influence speech recognition technology has had on a wide range of industries.
+
+### <a id="#TheHistoryOfSpeechRecognition"></a>The History of Speech Recognition
+
+Whereas Artificial Intelligence and machine learning have had a profound effect on the performance of speech recognition software, 
+the core technology actually dates back to the early 50’s. 
+
+In general, the growth path of speech recognition technology can be divided into five distinct periods, 
+each of which was characterized by a major technological breakthrough.
+
+#### <a id="Pre1970s"></a>Pre 1970’s
+
+The first ever machine able to recognize speech was invented by Bell Laboratories in 1952. The machine named ‘Audrey’ was an automatic digit 
+recognizer able to detect digits from spoken words. 
+
+However, due to the severe limits on the system’s capacity, the machine could only distinguish between the numbers 0 to 9, which was still an 
+unprecedented achievement during those times.
+
+In 1962, IBM presented the successor of Audrey, which was called the ‘IBM shoebox’. 
+The machine was given this name because it was approximately the size and shape of a standard American shoebox. 
+In addition to recognizing the numbers 0 to 9, the IBM shoebox was able to recognize 16 spoken words. 
+The machine was equipped with a microphone and a display which contained lamps that would turn on and off as certain words were spoken 
+through the microphone. 
+However, there still remained a long road to transform this speech recognition innovation into a commercially feasible product.
+
+#### <a id="#1970-1980"></a>1970-1980
+
+Research in the field of speech recognition halted after IBM’s shoebox invention in 1962. The main reason
+for this was the open letter from the influential John Pierce in which he criticized the practical feasibility
+of speech recognition and in which he openly encouraged the halting of the technology’s funding. This
+period came to an end when the U.S. Department of Defense funded the DARPA speech understanding
+research program with the goal of creating a speech recognition system that was able to recognize up to
+1000 spoken words. IBM, Carnegie Mellon University (CMU) and Stanford Research Institute all
+participated in the program. 
+
+The results were promising: CMU developed a speech recognition system,named ‘Harpy’, which was able comprehend up to 1011 words. 
+This was a tremendous increase in
+recognition capacity in comparison to the systems that had been developed during the past decade.
+
+In addition, Bell Laboratories also revived the funding in speech recognition in parallel to DARPA’s speech
+understanding research program. Whereas previously, speech recognition systems needed to be trained
+on the voice of an individual person, Bell Laboratories developed a system that was able to understand
+voices of more than one person.
+
+#### <a id="#1980-1990"></a>1980-1990
+
+The 80’s were characterized by a major breakthrough in speech recognition technology due to the
+development of so-called hidden Markov models (HMM). Hidden Markov models are statistical models
+which can be used to calculate the probability of a certain outcome, given a chain of past events. These
+models turned out to be exceptionally well-suited for the purpose of speech recognition, where they were
+used to determine the probability of a word originating from an unknown sound.
+Using hidden Markov models, IBM was able to create a voice activated typewriter in the mid-1980’s. 
+
+This transcription system, called Tangora, was able to recognize up to 20,000 words which were automatically
+being typed out on paper. Although the machine could only understand the voice of the person which it
+was trained on and recognized only a small part of the full English vocabulary, it allowed one to get a
+glimpse of the future possibilities and implementations of the voice recognition technology.
+
+#### <a id="#1990-2000"></a>1990-2000
+
+Up until the 90’s, voice recognition systems operated rather slow due to the limited computational power
+that was available at that time. However, the widespread introduction of 64-bit microprocessors in the
+mid 90’s provided machines with the much-needed computational power for speech recognition
+technology to become more feasible. 
+
+In addition, personal computers were finding their way to the
+households of the middle class in more developed countries. This motivated the development of the
+world’s first speech recognition software for consumers. The software, developed by the company
+‘Dragon’ and called ‘Dragon Dictate’, was able to recognize up to 100 words per minute, which is close to
+regular speaking rates of 100 to 150 words per minute.
+
+#### <a id="#Post–2000"></a>Post – 2000
+
+The early years of the new millennium were characterized by a plateau in speech recognition development
+and the technology was still being dominated by traditional approaches such as hidden Markov models.
+However, the funding of speech recognition programs, ever-evolving computational power and the
+widespread interests of private companies caused the technology to flourish during the past two decades.
+
+The real breakthrough came with the implementation of recurrent artificial neural networks and deep
+learning. These machine learning techniques mimic the working principles of the biological brain and are
+able to process very complex data structures, making them much-suited for speech recognition purposes.
+This caused a giant leap in the development of speech recognition and drastically increased the
+performance of the technology.
+
+Many private companies started to develop their own speech recognition software, which was picked up
+by large technology companies with the aim of equipping their current product portfolio with speech
+recognition software. 
+
+Currently, big-tech companies such as Google (Google Assistant), Amazon (Alexa)
+and Apple (Siri) have implemented their voice assistants in numerous products, allowing customers to
+interact with their devices in a more convenient way. As the technology advances, we are evolving towards
+a future where machine-interaction will be governed more and more by means of spoken language rather
+than touch-based interaction.
+
+### <a id="#UseCasesOfTheSpeechRecognition"></a>Use-cases of Speech Recognition
+
+Far-evolved speech recognition software has found its way to all sorts of industries in order to reduce costs
+by means of automation, provide new revenue generating services or increase overall customer
+experience. The following sections will provide an overview of the industries which have experienced
+massive changes due to the implementation of voice recognition applications.
+
+#### <a id="ucosr-Telecommunication"></a>Telecommunication
+
+There are two classes of voice recognition applications of that are appearing within the field of
+telecommunication. 
+
+The first class of applications focusses on reducing costs for tasks that are currently
+being accomplished by a human attendant. An example of such task is the automation of operating
+services. Whereas before, calls to operating services were handled by human employees, the
+implementation of voice recognition software has enabled the full or partial automation of this process.
+Incoming calls are handled by speech recognition systems which detect the caller’s problem by asking it a
+series of relevant questions. Based on the answers, the caller may be redirected to a human attendant
+who is specialized in the matter regarding the caller’s problem. This has enabled operating services to
+increase efficiency and provide a better customer service using less resources.
+
+The second class of applications focusses on providing services which are able to generate new revenue
+streams. A prime example of such applications within the field of telecommunication is voice dialing.
+Whereas previously, one had to dial complete phone numbers or navigate through the phone’s digital
+contact book in order to ring someone up, voice dialing allows people to complete calls without having to
+push any buttons.
+
+ 
+This is done by pronouncing the name of the person you are trying to reach, resulting
+in the voice recognition software to initiate a call to the person in question. Such applications are especially
+useful in situations where touch-based interaction is limited or not possible. For example, connecting your
+mobile device with your car’s audio system allows one to make on-demand phone calls without ever losing
+the hold on your steer.
+
+#### <a id="ucosr-Education"></a>Education
+
+Speech recognition has also proven to be useful in different fields of the educational system. One of the
+main applications of the technology is helping people to learn a second language and teach them the
+proper pronunciation. This is done by recognizing the student’s spoken words and sentences and to correct
+them when an error in pronunciation has been detected.
+
+In addition, speech recognition allows to improve the quality of education for students which suffer from
+a physical disability affecting their motor capabilities. Such students may be unable to intensively carry out
+hand movements which disables them from writing or typing. However, speech-to-text programs,
+equipped with speech recognition software, allows these students to dictate their school assignments and
+to browse the internet without physically operating a pen, mouse or keyboard.
+
+#### <a id="ucosr-Business"></a>Business
+
+The use of speech recognition software finds many practical solutions in the business environment. As
+discussed in the section about telecommunication, businesses can reduce costs and increase efficiency by
+partly or fully automating operating services.
+
+In addition, powerful speech recognition software can perform in-depth datamining on the audio files
+obtained from customer calls. Such data-analysis may provide key demographic information about the
+caller such as gender, age, accents, emotion and sentiment. Such information allows businesses to gain
+powerful insights in their customer base, launch highly targeted marketing campaigns and improve
+support and sales performance.
+
+Another application of speech recognition within a business context is the use of automatic text
+transcription software. Such software allows to convert audio and video fragments into perfectly accurate
+text documents which contain the spoken sentences from the imported file. This may be useful to acquire
+transcriptions of board meetings, conference calls or shareholder’s meetings in order to easily transfer this
+information to people which were not able to attend the event.
+
+#### <a id="ucosr-DailyLife"></a>Daily Life
+
+Large tech companies have invested billions of dollars in the development of voice-activated smart
+assistants which provide intelligent assistance to their owners in day-to-day tasks. 
+
+The current industry leaders providing such systems are Google (Google Assistant), Amazon (Alexa) and Apple (Siri), which have
+implemented their software in all sorts of devices such as phones, smart speakers and cars.
+These intelligent personal assistants can help their owner with basic day-to-day tasks by understanding
+short sentences and commands that are dictated to it. 
+
+One can, for example, request to schedule a
+meeting at a specific time and date, ask an overview of the scores of recently ended sport games or
+demand a weather report for the upcoming hours. Usually, these systems are backed-up with complex
+artificial intelligence algorithms which learn the owner’s preferences, enabling them to relevant
+information according to the owner’s needs.
+
+In addition, these voice-activated assistants are being integrated in other industries in a rapid pace, in this
+way expanding the field in which they operate. This is the case for the financial industry, where
+applications are being integrated which allow customers to pay bills by using voice-activated assistants
+such as Apple’s Siri.
+
+#### <a id="ucosr-Conclusion"></a>Conclusion
+
+The world of speech recognition is rapidly changing and evolving, with new applications being discovered
+on a frequent basis. The future promises to bring a significant increase in speech recognition performance
+with more robustness to individual voices, increased capability of handling background noise and
+widespread software being available for a large range of different languages and dialects. 
+
+As speech recognition technology advances, the future will evolve to a situation where machine-interaction will be
+governed by means of spoken language rather than touch-based interaction, allowing more efficient and
+faster data transfer between human and machine.
 
 
 # How AI is changing industry
