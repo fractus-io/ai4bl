@@ -318,6 +318,10 @@ This article looks at how we got to where we are today.
 The timeline below from the University of Queensland gives a brief overview of how AI has progressed over the years into becoming a standard 
 part of university offerings. 
 
+![alt text](https://qbi.uq.edu.au/files/40697/The-Brain-Intelligent-Machines-AI-timeline.jpg "History of Artificial Intelligence, Source – The University of Queensland")  
+###### Source – The University of Queensland
+
+
 Whilst this timeline provides us wit a great overview, we are going to start back at 1921 at a time when the term “robot” was first used.
 
 
