@@ -144,71 +144,71 @@ Table of Contents
 	* [Remote surgery](#uaiih-RemoteSurgery)
 	* [The future of AI in healthcare](#uaiih-TheFutureOfAIInHealthcare)
 	
-* [AI in Agriculture]
-	* [Introduction](#Introduction)
-	* [Driverless vehicles](#DriverlessVehicles)
-	* [Image Recognition](#ImageRecognition)
-	* [Big Data](#BigData)
-	* [Precision Farming](#PrecisionFarming)
-	* [Robotics](#Robotics)
-	* [Case Study – NatureFresh Farms](#CaseStudyNatureFreshFarms)
-	* [Summary](#Summary)
+* [AI in Agriculture](#AIInAgriculture)
+	* [Introduction](#aiia-Introduction)
+	* [Driverless vehicles](#aiia-DriverlessVehicles)
+	* [Image Recognition](#aiia-ImageRecognition)
+	* [Big Data](#aiia-BigData)
+	* [Precision Farming](#aiia-PrecisionFarming)
+	* [Robotics](#aiia-Robotics)
+	* [Case Study – NatureFresh Farms](#aiia-CaseStudyNatureFreshFarms)
+	* [Summary](#aiia-Summary)
 
-* [AI in Manufacturing]
-	* [Introduction](#Introduction)
-	* [Industrial Internet of Things](#IndustrialInternetOfThings)
-	* [Preventative vs Predictive Maintenance](#PreventativeVsPredictiveMaintenance)
-	* [Using real-time data](#UsingRealTimeData)
-	* [Generative Design](#GenerativeDesign)
-	* [Robotics](#Robotics)
-	* [Summary](#Summary)
+* [AI in Manufacturing](#AIInManufacturing)
+	* [Introduction](#aiiman-Introduction)
+	* [Industrial Internet of Things](#aiiman-IndustrialInternetOfThings)
+	* [Preventative vs Predictive Maintenance](#aiiman-PreventativeVsPredictiveMaintenance)
+	* [Using real-time data](#aiiman-UsingRealTimeData)
+	* [Generative Design](#aiiman-GenerativeDesign)
+	* [Robotics](#aiiman-Robotics)
+	* [Summary](#aiiman-Summary)
 	
-* [AI in Retail]
-	* [Introduction](#Introduction)
-	* [In Store Experience](#InStoreExperience)
-	* [Image Recognition](#ImageRecognition)
-	* [Robotics](#Robotics)
-	* [Amazon Go](#AmazonGo)
-	* [Mind-Reading](#Mind-Reading)
-	* [Receipts](#Receipts)
-	* [Removing Efforts](#RemovingEfforts)
-	* [Summary](#Summary)
+* [AI in Retail](#AIInRetail)
+	* [Introduction](#aiiret-Introduction)
+	* [In Store Experience](#aiiret-InStoreExperience)
+	* [Image Recognition](#aiiret-ImageRecognition)
+	* [Robotics](#aiiret-Robotics)
+	* [Amazon Go](#aiiret-AmazonGo)
+	* [Mind-Reading](#aiiret-Mind-Reading)
+	* [Receipts](#aiiret-Receipts)
+	* [Removing Efforts](#aiiret-RemovingEfforts)
+	* [Summary](#aiiret-Summary)
 
-* [AI in Transportation]
-	* [Introduction](#Introduction)
-	* [Autonomous/Driverless Vehicles](#AutonomousDriverlessVehicles)
-	* [Traffic Management](#TrafficManagement)
-	* [Drones](#Drones)
-	* [Air Travel](#AirTravel)
-	* [Summary](#Summary)
+* [AI in Transportation](#AIInTransportation)
+	* [Introduction](#aiitra-Introduction)
+	* [Autonomous/Driverless Vehicles](#aiitra-AutonomousDriverlessVehicles)
+	* [Traffic Management](#aiitra-TrafficManagement)
+	* [Drones](#aiitra-Drones)
+	* [Air Travel](#aiitra-AirTravel)
+	* [Summary](#aiitra-Summary)
 
-* [AI in Finance]
-	* [Introduction](#Introduction)
-	* [Credit Decisions](#CreditDecisions)
-	* [Risk](#Risk)
-	* [Fraud Prevention](#FraudPrevention)
-	* [Trading](#Trading)
-	* [Banking](#Banking)
-	* [Automating Processes](#AutomatingProcesses)
-	* [Summary](#Summary)
+* [AI in Finance](#AIInFinance)
+	* [Introduction](#aiifin-Introduction)
+	* [Credit Decisions](#aiifin-CreditDecisions)
+	* [Risk](#aiifin-Risk)
+	* [Fraud Prevention](#aiifin-FraudPrevention)
+	* [Trading](#aiifin-Trading)
+	* [Banking](#aiifin-Banking)
+	* [Automating Processes](#aiifin-AutomatingProcesses)
+	* [Summary](#aiifin-Summary)
 
-* [How AI is changing the travel industry]
-	* [Introduction](#Introduction)
-	* [Chatbots and virtual assistants](#ChatbotsAndVirtualAssistants)
-	* [Connie](#Connie)
-	* [Recommendations](#Recommendations)
-	* [Improved Search](#ImprovedSearch)
-	* [Smart Cruises](#SmartCruises)
-	* [Data, data, data](#DataDataData)
-	* [Summary](#Summary)
+* [How AI is changing the travel industry](#HowAIIsChangingTheTravelIndustry)
+	* [Introduction](#travel-Introduction)
+	* [Chatbots and virtual assistants](#travel-ChatbotsAndVirtualAssistants)
+	* [Connie](#travel-Connie)
+	* [Recommendations](#travel-Recommendations)
+	* [Improved Search](#travel-ImprovedSearch)
+	* [Smart Cruises](#travel-SmartCruises)
+	* [Data, data, data](#travel-DataDataData)
+	* [Summary](#travel-Summary)
 
-* [How can IoT AI assist in improving life quality for people with special needs]
-	* [Introduction](#Introduction)
-	* [The elderly and our aging demographic](#TheElderlyAndOurAgingDemographic)
-	* [Caring for specific conditions](#CaringForSpecificConditions)
-	* [Voice Activated Devices](#VoiceActivatedDevices)
-	* [Image and Visual Recognition](#ImageAndVisualRecognition)
-	* [Summary](#Summary)
+* [How can IoT AI assist in improving life quality for people with special needs](#HowCanIoTAIAssistInImprovingLifeQualityForPeopleWithSpecialNeeds)
+	* [Introduction](#aiiot-Introduction)
+	* [The elderly and our aging demographic](#aiiot-TheElderlyAndOurAgingDemographic)
+	* [Caring for specific conditions](#aiiot-CaringForSpecificConditions)
+	* [Voice Activated Devices](#aiiot-VoiceActivatedDevices)
+	* [Image and Visual Recognition](#aiiot-ImageAndVisualRecognition)
+	* [Summary](#aiiot-Summary)
 
 ## <a id="WhatIsArtificialIntelligence"></a>What is AI
 
@@ -1995,36 +1995,36 @@ Robots can even analyse data from pre-op medical records to guide the instrument
 
 AI has a bright future in the healthcare industry and this article only touches the surface on the possibilities. As new technology such as the Connected Cloud, Edge Computing and 5G become commonplace, the capabilities of innovation will be pushed further to save time, lower costs and ultimately improve accuracy. 
 
+	
+## <a id="AIInAgriculture"></a>AI in Agriculture
 
-## AI in Agriculture
-
-###  <a id="Introduction"></a>Introduction
+###  <a id="aiia-Introduction"></a>Introduction
 
 Artificial Intelligence (AI) is a hot topic in various industries from financial services to healthcare, law, education and retail. However, one that is sometimes left off the discussion to float under the radar is agriculture. 
 Agriculture based firms are seeking to use AI technology to boost productivity and create a competitive advantage in the sector. Innovation is helping them to deliver new products and services and cement their place within a populated market. 
 According to UN projections, food production is going to have to increase by as much as 70% with climate change, population growth and food security concerns. With that in mind, agriculture firms need to seek innovative solutions if they are to fulfil the demand. 
 This article discusses some of the way in which AI is supporting the agriculture industry.
 
-<a id="></a>Driverless vehicles
+<a id="aiia-DriverlessVehicles"></a>Driverless vehicles
 
 Autonomous vehicles have been talked about for a long time and there have been various public trials from companies like Uber and Tesla. Farming is also expected to benefit from driverless tractors. 
 A driverless tractor will operate without human intervention and work continuously and efficiently based on a defined set of rules. This means farmers don’t have to take up their time carrying out the monotonous tasks and safety concerns around using equipment are negated. 
 A supervisor will still need to monitor the progress at this stage until the technology advances again and some trials are considered remote controls.
 
-<a id="ImageRecognition"></a>Image Recognition
+<a id="aiia-ImageRecognition"></a>Image Recognition
 
 Drone technology has started to be used for industrial purposes. Most off us will have heard how the technology is being piloted in delivering goods e.g. Amazon but there is also an opportunity within agriculture.
 Drones can be used to take images of crops and monitor the production cycle at every stage. These images will be tagged and converted to data. That data can be used for making recommendations and decisions, exposing potential issues. For example, it might pick up on pests or irrigation problems that a farmer could be otherwise unaware of. 
 Farmers can spend less time surveying their crops and more time thinking about production. In large farms, drones can scout much larger areas of land than humans could in a shorter time and more accurately. Drone technology will ultimately pay for itself quickly and is worth the initial investment.
 
-<a id="BigData"></a>Big Data
+<a id="aiia-BigData"></a>Big Data
 
 Data is the essence of all things to do with agriculture. AI-based sensor equipment can be deployed which monitors temperature, soil conditions, rainfall or invasions over time. The data collected will be sent back to a processor and analysed. Cloud computing platforms have the ability to store and provide insight on incredibly large datasets. 
 Using all of the information, farmers can be presented with the optimal time to grow their seeds so as to maximise production. This can improve return on investment and reduce the likelihood of wasted yield.
 Sensors can also detect weeds and work out which herbicides need to be applied. The result of this is a reduction off toxins that find their way into food. 
 Forecasting is integral within farming, especially in smaller countries where they don’t have as much knowledge or access to the right technology. The irony here is that these smaller farms are also responsible for as much as 70% of the world’s crops. If we are able to start predicting seasonality and weather patterns, the smaller farms can benefit from improved crops and continue to thrive. 
 
-<a id="PrecisionFarming"></a>Precision Farming
+<a id="aiia-PrecisionFarming"></a>Precision Farming
 
 Precision farming is the umbrella term used for methods involving AI, data and new technology.  It is best explained through the 4 R’s.
 -	Right Source – matches the fertiliser type to crop needs
@@ -2033,79 +2033,76 @@ Precision farming is the umbrella term used for methods involving AI, data and n
 -	Right Place – keep nutrients where crops can use them
 The method relies on having the right technology in place to optimise agricultural health and productivity with a goal of sustaining and protecting the environment. It uses everything we have already talked about including drones, sensors and vast volumes of data. Precision farming used to be something only larger businesses would be able to deploy but mobile apps, cloud computing, edge computing and advanced infrastructures are starting to make it commonplace.
 
-<a id="Robotics"></a>Robotics
+<a id="aiia-Robotics"></a>Robotics
 
 Let’s face it, it is rare to find somebody who lists farming as their dream job. Traditionally, farms might be family owned businesses and plenty of people would live on or nearby the land. Today, that is not the case and there is a workforce shortage.
 AI agriculture bots are being deployed to augment the human workforce. Bots are being used to harvest crops and can do so at a faster pace and for longer than humans have ever been able to. They can also identify weeds more accurately and reduce potential costs for the farm. 
 Robots are being utilised within picking and packing areas that would have previously required manual labour as well. Again, they can do this faster than humans and work 24/7 meaning a far greater productivity rate. Hours of manual labour are eliminated.
 
-<a id="CaseStudyNatureFreshFarms"></a>Case Study – NatureFresh Farms
+<a id="aiia-CaseStudyNatureFreshFarms"></a>Case Study – NatureFresh Farms
 
 Across almost 200 acres of greenhouses in Ohio and Ontario, NatureFresh Farms’ are a great example of using almost every facet of AI they have at their disposal. Robotic cameras are being used to collect images of plants and feeding the data through to algorithms that detect when they will be fully ripe vegetables. 
 Sensors are measuring variables like temperature of the crops as well as the amount of water and fertiliser that it needs. Workers can simply adjust the settings using a smartphone app based on what the data recommends they do. This has reduced an hour of work into only 5 minutes. 
 The same data is used to create forecasts for harvests and yield with scenarios adapted to potential climate changes. All food is tagged so that the end recipient knows exactly where it came from and can quickly respond if there is any problem with the crop. This will use technology similar to Blockchain which is perfect for picking up on contaminated food and already in operation within large supermarket chains.
 
-<a id="Summary"></a>Summary
+<a id="aiia-Summary"></a>Summary
 
 Without a doubt, AI is helping farms run more efficiently. Technology likes bots and drones can revolutionise efficiencies and productivity whilst ensuring more accurate decisions are made to optimise yields. With a demand for more food, investment in agricultural AI technology is important for the future and whilst change is tough, those in the sector need to start moving quickly.
+	
+## <a id="AIInManufacturing"></a>AI in Manufacturing
 
-
-## AI in Manufacturing
-
-###  <a id="Introduction"></a>Introduction
+### <a id="aiiman-Introduction"></a>Introduction
 
 Advanced equipment like the Internet of Things (IoT) and the Industrial Internet of Things (IIoT) are generating more data than we’ve ever had before. The value of data is undeniable and becoming an essential part of manufacturing operations to remain competitive. AI platforms to capitalise on this data are slowly being adopted within the industry. Whilst such systems can be costly, factories are realising the major benefits they can see in their processes, productivity and efficiency if they begin to invest. 
 Cloud computing and the access to real-time analytics are bringing more significant advantages to manufacturing and are being accelerated through innovative technology such as Blockchain and 5G.
 This article looks at the manufacturing industries and where the opportunities lie for those in the sector.   
 
-<a id="IndustrialInternetOfThings"></a>Industrial Internet of Things
+<a id="aiiman-IndustrialInternetOfThings"></a>Industrial Internet of Things
 
 When we talk about the Internet of Things (IoT), it refers to any device or service that is connected to the Internet. This could be our Smartphone, Amazon Echo or even streaming services like Netflix and Spotify. Whilst IIoT is also associated with connectivity, it relates to the large number of industrial devices that are filled with sensors, connected via wireless networks to gather and share data with each other. 
 
-<a id="PreventativeVsPredictiveMaintenance"></a>Preventative vs Predictive Maintenance
+<a id="aiiman-PreventativeVsPredictiveMaintenance"></a>Preventative vs Predictive Maintenance
 
 Traditionally, machine optimisation and repairs within an industrial environment would be conducted in a scheduled manner. In performing regular maintenance, the chance of the equipment failing is minimised. It’s the same reason you might take a car for an annual check-up. It is based on assumptions that a machine or its components will degrade over time. Companies might use some data like looking at the average time between previous failures, but it is quite limited. The problem here is that carrying out maintenance just because it is scheduled may not be necessary and costs a business money.
 A predictive maintenance strategy is determined by the condition of equipment rather than assumptions on its degradation. It will try to predict failure before it even happens. Predictive maintenance systems use sensors to monitor and analyse industrial data like machinery and return information about productivity levels, consumption or status. The data can be used to make decisions on whether maintenance is required without necessarily completing such tasks on a preventative schedule. 
 Predictive maintenance is founded on an application of artificial intelligence known as machine learning. This takes large sets of historical data, often referred to as training data to run different scenarios and predict what is likely to go wrong and when the events will happen. 
 As the machine algorithms learn, they will recognise potential problems without the need for any human intervention. For example, if a temperature of 50 degrees always causes a machine to break, it could automatically switch off without the need for human analysis. 
 
-<a id="UsingRealTimeData"></a>Using real-time data
+<a id="aiiman-UsingRealTimeData"></a>Using real-time data
 
 According to Fero Labs, typical manufacturing companies discard 98% of the data they can collect because they simply can’t integrate it into their operations.  
 Hitachi is one company that have been trying to tap into their unused data. This has unlocked data that they were not aware of in the past, tracking many more variables with AI sensors. 
 Real time monitoring of these variables will allow immediate intervention before an issue arises. Let’s say that you have a sensor in place monitoring the vibrations of a machine. Increased vibrations can be a sign that components are failing but having just one data point in isolation when the numbers hit a specified alert won’t be enough to prevent problems.
 Other common use cases are in infrared thermography, motor condition analysis, precision balancing and laser alignment. Realistically, anything that uses data has its own case for a predictive maintenance strategy. 
 
-<a id="GenerativeDesign"></a>Generative Design
+<a id="aiiman-GenerativeDesign"></a>Generative Design
 
 Companies like Autodesk are using AI for what is known as generative design. Creating a new product or part can take companies weeks, months or even years. Using AI, experiments and recommendations could in theory be generated in seconds that greatly speed up the process.
 In generative design, a developer or engine would start by inputting all of their variables like performance and spatial requirements, materials, manufacturing methods and cost constraints. Software, like Autodesk will provide all the different permutations for a solution, quickly showing any potential alternatives. 
 Beyond just making suggestions, the software will learn from the iterations and optimise the experiment as it tries to find the perfect solution. 
 A computer will generate thousands of designs in the time a human can create one. Some of them will be things that weren’t even thought to be a possibility. In doing this and resolving any constraints, designers and engineers can focus their time on innovating and developing better process strategies.
 
-<a id="Robotics"></a>Robotics
+<a id="aiiman-Robotics"></a>Robotics
 
 A report from the International Federation of Robotics predicted that by the end of 2018, there would be more than 1.3 million industrial robots at work in factories all over the world. It is unknown as to whether this came into fruition but deployment of such technology has certainly accelerated in the last 12 to 24 months.
 The objective, in theory, is that robots can carry out the repetitive jobs done by humans allowing workers to be trained for more complex roles in design or programming. The key to success in robotics is a collaborative environment. We are not in a position where robots can operate completely without humans and there is a strong case supporting that we would not want that to happen. 
 However, robots will become more cognitive over time and start making autonomous decisions against real-time data. The speed and efficiency benefits as well as improved health and safety as robots can complete dangerous jobs, will ensure robotics are a major part of the future factory.  
 
-###  <a id="Summary"></a>Summary
+###  <a id="aiiman-Summary"></a>Summary
 
 Investors are pouring billions of dollars into IIoT startups hoping to develop more revolutionary solutions for sensors that utilise new technology such as edge equipment and Blockchain (both of these emerging technologies would need their own write-ups). What we must remember is that the technology is still in its infancy. It will take time for algorithms to hold enough data so that they can self-learn and become truly efficient. There is also a huge reliance on networks of connected devices creating security risks which companies will have to mitigate. 
 The challenges are not insurmountable and IIoT will be part of the factory of the future for a faster and more efficient manufacturing industry. 
 
+## <a id="AIInRetail"></a>AI in Retail
 
-
-## AI in Retail
-
-###  <a id="Introduction"></a>Introduction
+###  <a id="aiiret-Introduction"></a>Introduction
 
 Retail is going through a period of change. Much of the innovation is coming from new technology and artificial intelligence (AI). As customers become more demanding in an exponentially growing digital world, billions of devices are connected, collating vast amounts of data leaving retail ripe for disruption.
 AI and its applications like machine learning and natural language processing are able to answer many of the questions for retail businesses. At a time where there is demand for personalised experiences, fast customer service, intelligent analytics and smarter shops, AI platforms are primed to drive society into the future.
 Although many are favouring e-commerce over traditional retail stores, understanding the usefulness of AI and data could be critical to the future if businesses don’t want to be swamped by the likes of Amazon for example. In fact, a report by EuroMonitor International predicted that over 80% of goods are still being purchased in brick and mortar stores. AI is the ideal way to bridge the experience gap between virtual and physical stores if they want to keep it that way. 
 This article looks at the key use cases in retail and how AI has helped them keep up with their customers. 
 
-###  <a id="InStoreExperience"></a>In Store Experience
+###  <a id="aiiret-InStoreExperience"></a>In Store Experience
 
 Retailers are making use of AI for shoppers whilst they are in the store. For example, Macy’s On Call app helps shoppers whilst they navigate their way around the store.
 Customers input questions into the app such as asking where they can find a specific product, department or brand. The app will reply with a customised and relevant response to the user questions. It is the power of digital technology it a physical setting. The idea is based on research that showed consumers are more likely to use their phone in store to find information rather than approach a member of floor staff. 
@@ -2113,53 +2110,54 @@ Using machine learning, the app becomes more intelligent through very interactio
 Luxury fashion e-tailer Farfetch has come up with a solution to change the in-store experience for fashion retailers with its Store of the Future platform.
 The platform, in a similar way to the Macy’s solution looks to bring the digital and physical worlds together for an optimised customer experience. Businesses can collect data in-store such as in the fitting room where smart mirror technology allows customers to choose different sizes or colours of goods they are trying on. Information and shopping habits are stored for later so brands can learn about the specific styling requirements of their customers. 
 
-###  <a id="ImageRecognition"></a>Image Recognition
+###  <a id="aiiret-ImageRecognition"></a>Image Recognition
 
 Customers like engaging with different types of content and the popularity of social media platforms such as Instagram and Youtube show how images and video are the preferred choice right now. The department store Neiman Marcus has taken steps to take advantage of the trend through their app called ‘Snap.Find.Shop’. The AI-based app allows users to take photos they see whilst they are out shopping. It will then search the Neiman Marcus inventory to show all similar items. The more photos that get added to the database, the smarter the app becomes. 
 Think of the solution as being similar to how Amazon are able to recommend products to customers based on what they have previously purchased. Recommendation engines are a great way to improve revenue. Amazon have reported as much as 40% of their sales coming via recommended products that the consumer may not have bought otherwise.
 
-###  <a id="Robotics"></a>Robotics
+###  <a id="aiiret-Robotics"></a>Robotics
 
 The hardware stores Lowes successfully deployed in-store robotics back in 2016. The LoweBot is able to show products where to find products and answer simple questions in multiple languages. The objective was to free up employees, so they had more time to answer complex queries from customers and show their expertise.
 As well as this, the robots monitor stock levels so the inventory can be kept up-to-date automatically without relying on staff to carry out the repetitive and monotonous task.
 Walmart have also used robotics to scan store shelves. The bots roam the aisles and check for missing items or areas that are low on stock. It can even check if price tags need changing by using AI sensors. Like the Lowes solution, employees are given more time to spend with customers and improve the experience rather than worry about stocking shelves.
 Fashion brand Zara are also using robots in the warehouse to quickly get items as a customer comes into store for a pick-up.
 
-###  <a id="AmazonGo"></a>Amazon Go
+###  <a id="aiiret-AmazonGo"></a>Amazon Go
 
 We all know that Amazon is primarily an e-commerce retailer but they have ventured into traditional retail (of sorts) with their Amazon Go stores. Sensors and cameras in the store allow customers to pick up what they need, put it in a bag and walk out. There are no cashiers or cash. Instead of this, their Amazon account is charged as they leave. AI creates a seamless shopping experience without the need for lots of staff. 
 The stores have not become mainstream where there are still a few glitches e.g. in a busy store, it doesn’t always interpret properly what people pick up. In time however, it is expected similar retail outlets will pop-up.
 
-###  <a id="MindReading"></a>Mind-Reading
+###  <a id="aiiret-MindReading"></a>Mind-Reading
 
 Clothing store Uniqlo have been using the power of in-store emotion. When customers look at images of products on screen, their reaction is tracked via neurotransmitters as a view to how much they like the style or colour. Based on that reaction, the customer is recommended products that are most likely to suit them. 
 This is a great example of AI creating an experience without virtually zero input required from the customer. 
 
-###  <a id="Receipts"></a>Receipts
+###  <a id="aiiret-Receipts"></a>Receipts
 
 Popular clothing brand H&M had the novel idea of using in-store receipts to work out when shelves need to be re-stocked. For example, instead of supplying every store with the same items, if the data shows that one store outperforms another with a certain line, algorithms adjust the levels accordingly. 
 There is a clear cost saving exercise in monitoring stock levels as well as ensuring customers in-store only see the products they are going to be interested. 
 
-###  <a id="RemovingEfforts"></a>Removing Efforts
+###  <a id="aiiret-RemovingEfforts"></a>Removing Efforts
 
 Buying make-up has traditionally been quite a stressful experience in stores. If a customer doesn’t know what shade or brand they want, it can put them off shopping. Brands like Sephora are making the experience better with their Color IQ platform. In the store, the AI-based system will scan the customers face and make recommendations for concealers or foundation shades that suit them best. 
 It is a huge help to customers who would normally try to find the right product via trial and error.
 
-###  <a id="Summary"></a>Summary
+###  <a id="aiiret-Summary"></a>Summary
 
 To keep customers coming into store, retail outlets are using AI to enhance the customer experience, improve staff productivity and utilisation and reduce customer effort whilst shopping. 
 With e-commerce causing major disruptions to traditional brick and mortar stores, creating an environment that attracts and excites customers is becoming fundamental rather than optional. In the future, retailers will continue to deploy this cutting-edge technology to keep up with their digital counterparts. 
 Personalised and engaging environments will keep retail alive.
 
-## AI in Transportation
-###  <a id="Introduction"></a>Introduction
+	
+## <a id="AIInTransportation"></a>AI in Transportation
 
+###  <a id="aiitra-Introduction"></a>Introduction
 
 Artificial Intelligence (AI) in transportation has always seemed like sci-fi as it’s been part of the entertainment scene for so long. Whether you remember Knight Rider, the DeLorean, a flying car in Grease or happen to be a fan of Herbie, thinking up ways of innovating transportation has clearly been at the forefront of creative minds. 
 However, today, it is not so futuristic and thanks to AI, many of the fantasies from the movies are coming to life. Breakthroughs in technology are being announced virtually every month and, if you listen to Elon Musk (Tesla), it won’t be long until AI has taken over the transportation industry. 
 This article looks at some of the ways in which AI is transforming the sector.
 
-###  <a id="AutonomousDriverlessVehicles"></a>Autonomous/Driverless Vehicles
+###  <a id="aiitra-AutonomousDriverlessVehicles"></a>Autonomous/Driverless Vehicles
 
 When we talk about autonomous vehicles, there is more to it than the cars we’ve been promised for a while now. Cars have been trialled but are still in their early stages and don’t look set to become mainstream too near in the future. However, there are plenty of other applications that are making best use of the technology.
 Small scale autonomous buses have been deployed in some parts of the world. China, Singapore and Finland are the countries where it the AI has been used most. The UK started trialling autonomous buses in March 2019 and there are plans to launch more pilots. These solutions still have human drivers behind the wheel in case of emergency. Although the AI is advancing, it is not able to think for itself in a way that makes it safe to leave it to its own devices.
@@ -2171,89 +2169,90 @@ Driverless trains have been tested with success on the London Underground. One o
 One of the smartest solutions may well be remote controlled cargo ships. It is thought that these have been in the making for a long time but if deployed, the savings on crew costs would be a massive win for the industry. 
 Many driverless vehicles are also powered by electricity making them far more environmentally friendly. 
 
-###  <a id="TrafficManagement"></a>Traffic Management
+###  <a id="aiitra-TrafficManagement"></a>Traffic Management
 
 Complex data algorithms can be used to manage traffic and create redirection routes if required. Traffic sensors are already being used to predict potential accidents based on current conditions and helping to make recommendations on speed limits or routes. 
 In 2012, the Surtrac AI system was installed in 9 traffic signals within the Pittsburgh area. By using data, it was able to reduce travel times by more than 25% on average and reduce wait times by as much as 40%. The solution was so successful that it was added to other traffic signals around the city. 
 In Bengaluru, India, which regularly faces long traffic jams and the average speed on some roads at peak hours is just 4km/h (2.5mph), Siemens Mobility has built a prototype monitoring system that that uses AI through traffic cameras. Traffic cameras automatically detect vehicles and this information is sent back to a central control centre where algorithms estimate the density of traffic on the road. The system then alters the traffic lights based on real-time road congestions. 
 Traffic management requires a lot of data and with so many cameras on the road and enormous computing power, we now can make it successful. Just imagine a world without traffic jams! 
 
-###  <a id="Drones"></a>Drones
+###  <a id="aiitra-Drones"></a>Drones
 
 Amazon are starting to take to the air for deliveries. They are testing drone technology to allow for faster and safer delivery of goods to customers. It is an expensive investment but one that could really push them way out ahead of the competition.
 Uber have trialled a drone taxi in Dubai and whilst the future of that technology isn’t known yet, it is amazing to think that it’s available. 
 Digital Number Plates
 Over time, we can expect cars to start losing physical number plates as they become digitalised. There are several benefits to this system such as notifying authorities instantly if something is wrong with your GPS location. The amount of vehicle theft will naturally reduce as it will be impossible to get away from a system that knows exactly where your car is using AI. 
 
-###  <a id="AirTravel"></a>Air Travel
+###  <a id="aiitra-AirTravel"></a>Air Travel
 
 Pilotless planes have been talked about already, but the challenge will be in gaining public trust for such a huge innovation. Whilst there arguably isn’t much a pilot needs to do during travel (without disrespecting what they do), having nobody there might cross a mark just now. 
 However, the way we travel is likely to change with proposals for digital passports based on face scanners at airports and tracking baggage via GPS to ensure it never gets lost.
 
-<a id="Summary"></a>Summary
+<a id="aiitra-Summary"></a>Summary
 
 AI brings a number of benefits to the transportation industry. With the ability to improve efficiency, provide better customer experiences and reduce accidents to name a few benefits, AI will be a driving force over the next decade in the sector. This article only considers some of the main developments with robot police cars, driver assist programs, AI taxi hailing and smart highways all on the industry radar.
 According to the US transportation research board, emerging applications of AI in transportation planning are in travel behavioural models, city infrastructure design and planning, and demand modelling for public and cargo transport. On-demand services like Uber are also likely to start moving to entirely autonomous services over time as long as they have more successful trials.
 Ethical constraints may mean it takes a while to get to full adoption in some cases but what originally looked like sci-fi, is now a distinct possibility.
 
-## AI in Finance
 
-###  <a id="Introduction"></a>Introduction
+## <a id="AIInFinance"></a>AI in Finance
+
+###  <a id="aiifin-Introduction"></a>Introduction
 
 Whilst Artificial Intelligence (AI) and its applications such as machine learning are disrupting several industries, one of them that has benefitted the most is financial services. The reason why we are seeing such huge strides in the sector is due to it being incredibly traditional and, in some cases, quite old-fashioned. For example, we have banked in the same way for a long time but as people are so digitally connected, this is not necessarily the way to carry on doing things.
 This article looks at some of the major innovations within financial services over the last few years.
 
-###  <a id="CreditDecisions"></a>Credit Decisions
+###  <a id="aiifin-CreditDecisions"></a>Credit Decisions
 
 Using AI, credit scoring can be more sophisticated than traditional methods. The aim to is use data that can distinguish between applicants who are high risk and those who simply don’t have a detailed credit history. Some establishments have even tinkered with using social data to gauge a measure of credit worthiness. For example, if somebody has a lot of secure connections with family and friends they can trust, it has shown to be a strong signal they are a good risk. 
 Ford Motor Company has shown that machine learning is able to more accurately predict the risk of thin-file applicants.
 Beyond this, AI is not biased like a human might be. The decisions on credit will be based purely on the data it processes without human judgment of any kind. A more rational decision ensures enhanced risk management. 
 
-###  <a id="Risk"></a>Risk
+###  <a id="aiifin-Risk"></a>Risk
 
 AI can analyse vast amounts of data almost in real-time. The advent of cloud computing and the recent deployment of 5G technology will only extend the availability of such services. In analysing a lot of data quickly, multiple sources can be used, whether they be structured or unstructured and help to make decisions. For example, they can predict the future risk of an applicant.
 US leasing company, Crest Financial have successful deployed real-time machine learning to reduce the lag in making risk-based decisions.
 
-###  <a id="FraudPrevention"></a>Fraud Prevention
+###  <a id="aiifin-FraudPrevention"></a>Fraud Prevention
 
 Fraud is and always will be a big problem within financial services. AI has been very influential in combatting this type of crime. Whenever new technology is integrated, as much as it is great for the business, it gives those looking to cause malicious damage a new channel to explore. Think “Catch Me If You Can” style to get an idea of what can happen in the extremes.
 Using machine learning, algorithms can track user behaviour and spot patterns that seem irregular to the norm. Increasing e-commerce transactions have made this more difficult than ever and AI is becoming fundamental in combatting cybercrime. 
 In another big area of criminal activity, money laundering, banks have reported that AI can reduce the time of investigations by as much as 20%. 
 As consumers become more connected, there is an opportunity to reduce digital based crimes as much as there is to cause them. 
 
-###  <a id="Trading"></a>Trading
+###  <a id="aiifin-Trading"></a>Trading
 
 Data driven investments and automatic trading are becoming big business and reinventing the industry. There are several benefits from using AI in the stock markets over human advisors, albeit both still have a part to play.
 With the capacity to process and analyse large volumes of data, trading algorithms are perfectly placed to help investors make the right decisions. Real-time data processing means fast decisions and fast trading. It’s a win/win situation for everybody involved. 
 AI makes recommendations purely based on the information it is provided with. This means there is no bias in its decisions. Humans can easily be influenced by their own “gut feel” but this is not the case for machines which are primed to make the perfect unemotional decision.
 Huge companies like Bloomberg now use AI for their forecasting and market predictions. They can identify patterns quickly and accurately for traders. 
 
-###  <a id="Banking"></a>Banking
+###  <a id="aiifin-Banking"></a>Banking
 
 Whether it be checking your balance, scheduling bills or making payments, banking is becoming heavily driven by technology and AI. Most people will have a banking app and the number of occasions where somebody needs to call or visit a physical bank have massively decreased. I’m not even sure a Millennial would know what to do with a cheque! 
 AI applications within mobile apps have the ability to create financial goals and automate customer savings. They do this through tracking income and expenditure to create fully optimised plans for their customers. 
 Banking has been crying out to be more streamlined for years and with the promise of Open Banking which we are slowly seeing creep into society, the sector is still set for a lot of re-development in the coming years.
 
-###  <a id="AutomatingProcesses"></a>Automating Processes
+###  <a id="aiifin-AutomatingProcesses"></a>Automating Processes
 
 AI has reduced resource costs within financial services. Think about applying for a loan. Traditionally, you’d have to fill in various forms, sign documents, send photographic evidence for ID and maybe even pay your bank a visit. 
 Machine learning algorithms can take this structured and unstructured data, process it in seconds and make a decision. There doesn’t need to be a human at the other end reviewing all the documentation. Instead, they can focus on customer care. 
 Financial services require a lot of repetitive and mundane tasks. Ernst & Young have reported up to 70% cost reduction in automating these tasks. Most of this is from removing the human involvement and deploying those staff elsewhere. 
 JP Morgan Chase have started to successfully deploy Robotic Process Automation (RPA) as a way to better capture documents and automate cash management tasks. 
 
-###  <a id="Summary"></a>Summary
+###  <a id="aiifin-Summary"></a>Summary
 
 Financial services is continually being reshaped by AI. New technology like blockchain and adoption of cryptocurrency over the next decade look to have the potential to drastically change the landscape again. Whilst some are slow to adopt AI applications with the cost of investment, those who do deploy new solutions are starting to reap the benefits. Data protection and privacy are also one of the major obstacles when attempting to deploy AI and that is something that firms within the sector will have to battle to overcome. Much of that will come from consumer trust and understanding over time. 
 The AI hype is real and financial services is amongst one of the most highly investable sectors for it.
 
+	
+## <a id="HowAIIsChangingTheTravelIndustry">How AI is changing the travel industry
 
-## How AI is changing the travel industry
-
-###  <a id="Introduction"></a>Introduction
+###  <a id="travel-Introduction"></a>Introduction
 
 Artificial Intelligence (AI) is changing the dynamic of many industries and one of those at the very forefront is travel. As businesses seek to improve their efficiency and create more personalised customer experiences, travel is one sector that has the ability to generate a lot of investor excitement. 
 
-<a id="ChatbotsAndVirtualAssistants"></a>Chatbots and virtual assistants
+<a id="travel-ChatbotsAndVirtualAssistants"></a>Chatbots and virtual assistants
 
 Conversational bots, sometimes known as virtual assistances are becoming very important to the travel industry. 
 Bookings are a major problem for hotels with reports suggesting that only one in twenty potential reservations are actually being taken up. Chatbots are trying to buck the trend. Applications like Hijiffy which is using the Facebook Messenger platform allow users to ask questions and get instant responses. For example, they can ask about the destination, available services and even book a room, all through the popular messaging app. 
@@ -2262,51 +2261,51 @@ In providing real-time, accurate a conversational support, hotels are able to re
 Similar technology can be used in the hotel room by responding to guests’ questions. Imagine having an Amazon Alexa or Google Home in your room as standard for example. IBM Watson is trying to take this even further as you’ll see below. 
 Chatbots are also a great way for collating customer feedback that they would not have proactively provided.
 
-<a id="Connie"></a>Connie
+<a id="travel-Connie"></a>Connie
 
 Hilton hotels have deployed Connie, a robot concierge to help visitors at the front desk. It has been developed using the IBM Watson technology. Guests can ask Connie questions about where to go, where to dine or how to find something at the hotel. This means there isn’t a need for somebody to be on the desk 24/7 and provides a great cost saving whilst maintaining customer satisfaction. 
 In time, as it learns, Hilton hope that Connie has recognise the faces of guests and remember previous conversations, taking it to the next level of artificial intelligence. If it can truly delight the customers in this way, it will be revolutionary for the travel industry. If a flight has arrived later, IBM have the power to recognise that and offer specific services. The same applies to behaviours like offering breakfast or treats to guests proactively. 
 
-<a id="Recommendations"></a>Recommendations
+<a id="travel-Recommendations"></a>Recommendations
 
 Through the popularity of sites such as TripAdvisor as well as social media, recommendations have become highly important within the travel industry. It would be very unlikely for somebody to book a holiday without looking for reviews of some kind first. 
 Research from Booking.com has shown that one third of customers would now be comfortable in letting a computer plan their next trip based on information from their travel history. Using this data, travel brands can create very tailored recommendations based on unique preferences.
 Going a step further than that, Utrip (powered by TUI Group) can recommend a full itinerary for trips based on user preferences. It can filter through millions of potential combinations to accomplish this. 
 
-<a id="ImprovedSearch"></a>Improved Search
+<a id="travel-ImprovedSearch"></a>Improved Search
 
 Online travel agents are using a technology known as computer vision to improve search mechanisms on their site. They do this by optimising the tags used within their listings. For example, a hotel might tag their property as having a “beach view” and any searches will return them in results. 
 Tagging is very important for remaining competitive. This is truer as consumers edge towards voice search over traditional typed text searches. Travel sites need to consider what comes will be searching for in a voice context which can be very different to text. 
 
-<a id="SmartCruises"></a>Smart Cruises
+<a id="travel-SmartCruises"></a>Smart Cruises
 
 Carnival cruises have developed a solution based almost entirely on AI for their trips. The company operates more than 100 ships and travels to over 740 destinations across the globe. 
 On the cruise ships, they are using wearable technology to create a seamless customer experience. The project is led by John Padgett who was responsible for bringing similar innovations to Disney, allowing visitors to quickly find and see their favourite characters.
 The wearable technology, called the Ocean Medallion, relies on 7,000 sensors placed on the ship and hundreds of miles of cables. Passengers are connected to all of these things to display personalised recommendations and experiences. Across the ship there are over 4,000 digital interaction points. 
 Investment into these devices will no doubt extend to other companies given the overwhelming success of Carnival.
 
-<a id="DataDataData"></a>Data, data, data
+<a id="travel-DataDataData"></a>Data, data, data
 
 Almost everything in travel creates vast amounts of data. As well as travellers, planes, trains, ships and cars are generating data through an enormous number of sensors every single second. Understanding that data can help to improve efficiency, remove processes and eliminate costs. 
 For example, Boeing is using augmented reality so that engineers can see circuit diagrams placed over planes to find possible faults. Cruise ships are using data to find possible engine failures as early as 10 months before they even happen. As well as ensuring safety, it helps to avoid traveller disappointment and cancellations. 
 AI applications are using data to create alerts for areas where security could be a problem. Travel apps can tell travellers about dangerous places or image recognition in CCTV can ensure people avoid certain areas. 
 As we gather more data, the process efficiency in travel will continue to improve.
 
-<a id="Summary"></a>Summary
+<a id="travel-Summary"></a>Summary
 
 AI is changing the entire ecosystem of the travel industry right now. Chatbots are taking over bookings and assistance, planning platforms can generate personalised itineraries and guests are getting a truly unique experience. On top of this, operational improvements are making AI a very investable technology for those involved in the travel industry. 
 The key to success will be in using AI wisely. It is designed as an aide to human interaction and not a replacement. Those who can best work out how the two compliment each other will be the ones who succeed.
 
+	
+## <a id="HowCanIoTAIAssistInImprovingLifeQualityForPeopleWithSpecialNeeds">How can IoT AI assist in improving life quality for people with special needs
 
-## How can IoT AI assist in improving life quality for people with special needs
-
-###  <a id="Introduction"></a>Introduction
+###  <a id="aiiot-Introduction"></a>Introduction
 
 
 The Internet of Things (IoT) is a network of connected devices that operate via sensors and software allowing them to collect data. This data helps to form the basis of Artificial Intelligence (AI) in those devices through its subsets such as machine learning and natural language processing. As an example, Amazon Echo (Alexa) is an IoT device that uses natural language processing to convert our voice commands into data. The data is then processed using machine learning algorithms, sent back to the IoT device and Alexa talks back to us. 
 Whilst platforms like Alexa are the ones we witness in everyday life, there are several other industries benefitting from IoT and AI applications. One of the key sectors, which is likely to be revolutionised over the next few years is healthcare. By 2020, McKinsey have estimated that as much as 40% of IoT devices will be health related, showing how big the industry is. This article looks at some of the examples of IoT and AI assisting people with special needs.
 
-###  <a id="TheElderlyAndOurAgingDemographic"></a>The elderly and our aging demographic
+###  <a id="aiiot-TheElderlyAndOurAgingDemographic"></a>The elderly and our aging demographic
 
 The population of the world is aging, especially in some of the larger growing economies such as Europe, Japan and China. It is thought that by 2050, the percentage of the world’s population that is over 60 years old will be at 22% versus just 12% in 2000. This means it is important for healthcare providers and governments to invest in solutions for the elderly. If they don’t, the costs of care could become astronomical in years to come and a burden to society. 
 Some providers are already introducing AI into their journeys. At the very start, it has shown to be accurate in diagnosing diseases like cancer and early signs of diabetes. This means clinicians to look at the right form of treatment early on and treat the conditions effectively. Discovering the early onset of these diseases through AI can save lives but we could be some way off full adoption due to issues with trust and data privacy amongst other limitation. However, there are numerous ways that AI is helping the elderly to improve their quality of life.
@@ -2324,7 +2323,7 @@ As Smartphones and similar devices have dropped in price, it has given everybody
 Some bots have gone a step beyond medication management and offer social companionship to the elderly. For example, soft toys can be programmed with social feeds about local events or healthy food choices to help them when they need it most. In having an outlet to the outside world, whilst sounding juvenile, it can extend the life of the elderly through keeping an active mind. In theory, the device could take any form with the underlying AI application and data being key. This means there is a huge opportunity for providing very personalised patient plans.
 As well as companionship, one of the biggest fears for seniors is falling whilst nobody else is around to help. Having a device with them alleviates these fairs and gives them more confidence and allows them to feel less isolated in their own home. 
 
-###  <a id="CaringForSpecificConditions"></a>Caring for specific conditions
+###  <a id="aiiot-CaringForSpecificConditions"></a>Caring for specific conditions
 
 Some IoT devices have been created to deal with very specific patient needs.
 
@@ -2349,18 +2348,18 @@ Devices have been made available to help track both of these breathing related c
 Brain Power offer game-like apps that use AI to produce quick insights for the children, parents and teachers. The apps teach skills for anybody on the spectrum, geared to the specific individual. 
 Some of the key metrics are measuring anxiety at different points whilst using the app or checking body language of the app user. Many of the apps deal with emotions which are usually hard for those with autism to detect. Analysis using AI techniques could create significant breakthroughs in time.
 
-###  <a id="VoiceActivatedDevices"></a>Voice Activated Devices
+###  <a id="aiiot-VoiceActivatedDevices"></a>Voice Activated Devices
 
 Devices such as Amazon Echo and Google Home, whilst a novelty to some, have created a new world for those with special needs. For example, people with limited sight or mobility have been provided a brand new way of finding things out or getting things done. The Royal National Institute of Blind People (RNIB) has a page dedicated to how Alexa can help blind people interact with the internet. 
 The elderly and disabled can have instant access to learning materials, friends and family through simple voice commands rather than having to learn complicated new technology. Caregivers can check on activity where applicable e.g. ensuring an elderly person has taken their medication (or at least listened to the notification). Families are less anxious about those they care for and those in need are provided with the comfort that somebody is on the other end of the device. 
 Alexa and Google Home are still becoming more conversational through learning and in time, may be able to perform predictive functions e.g. predicting if there is a problem if nobody has spoken for XX hours or ignored notifications.
 
-###  <a id="ImageAndVisualRecognition"></a>Image and Visual Recognition
+###  <a id="aiiot-ImageAndVisualRecognition"></a>Image and Visual Recognition
 
 Devices like Microsoft’s Seeing AI app  narrates the visual world for the blind and low vision community, helping them to do things like see currency, read handwriting and text, recognise products from barcodes, recognise colours and recognise people around them and their emotions – all through their mobile phone cameras.
 IoT and AI such as this can provide a far better quality of life for so many people which is why enterprises including Microsoft, Google and Facebook have all made significant recent investments into that area. These companies have so much data available now, making all this very possible whereas we didn’t have the computing power or vastness of information 3, 5 or 10 years ago. 
 
-###  <a id="Summary"></a>Summary
+###  <a id="aiiot-Summary"></a>Summary
 
 Whilst the opportunity for using IoT and AI in healthcare is huge, adoption to date has been slow for several reasons. Both consumers and doctors have data privacy concerns with the massive amounts being stored in the cloud and prone to hacking and malicious use. Professionals also argue that in using AI, there is a lack of ownership and therefore responsibility in making decisions on patient diagnoses. For example, if AI does get it wrong, who is to blame? 
 What must be remembered, is that AI and IoT are not designed to replace human expertise, but rather to aide it. AI can take care of the repetitive and tedious jobs to allow human professionals to focus on the patients. It will enable patient care to come before admin. 
