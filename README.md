@@ -1893,7 +1893,7 @@ The objective of NLP is to decipher, understand and make sense of human language
 It’s perhaps best to look at NLP in a practical example.
 
 
-![alt text](https://github.com/fractus-io/ai4bl/tree/master/course/assets/image/nlp1.jpg "NLP Practical example")  
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/nlp1.jpg "NLP Practical example")  
 ###### Source – Upwork
 
 What we see here are a number of steps linking a human to a machine via a NLP layer. 
