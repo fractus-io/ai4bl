@@ -1893,6 +1893,9 @@ The objective of NLP is to decipher, understand and make sense of human language
 It’s perhaps best to look at NLP in a practical example.
 
 
+![alt text](https://github.com/fractus-io/ai4bl/tree/master/course/assets/image/nlp1.jpg "NLP Practical example")  
+###### Source – Upwork
+
 What we see here are a number of steps linking a human to a machine via a NLP layer. 
 1.	A human interacts with the machine through speech, chat, social media or some way that involves language
 2.	The machine captures the language via the NLP Layer and sends it off to be converted into text or data
@@ -2019,7 +2022,7 @@ Only recently, Facebook created AI that was able to beat professional poker play
 If you get everything right, suddenly you have a machine that can read, analyse, suggest and even curate content faster and more efficiently than humans have ever been able to. Marketing teams can spend time on strategy and insight and have far more satisfying jobs that don’t focus on laborious tasks.  
 
 
-### <a id="nlp-TheFutureOfNLPAndNLG "></a>The future of NLP and NLG 
+### <a id="nlp-TheFutureOfNLPAndNLG"></a>The future of NLP and NLG 
 
 At the start of 2019, a non-profit AI research company backed by Elon Musk and others announced that they had built an AI model that was able to coherently writes paragraphs of text at scale. 
 
