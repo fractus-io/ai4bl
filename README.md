@@ -114,6 +114,21 @@ Table of Contents
 		* [Daily Life](#ucosr-DailyLife)
 	* [Conclusion](#sr-Conclusion)
 
+* [Natural Language Processing](#NaturalLanguageProcessing)
+
+    * [Introduction](#nlp-Introduction)
+    * [What is Natural Language Processing?](#nlp-WhatIsNaturalLanguageProcessing)
+    * [Why do businesses need to use natural language processing?](#nlp-WhyDoBusinessesNeedToUseNaturalLanguageProcessing)
+    * [User Experience](#nlp-UserExperience)
+    * [Automating Customer Support](#nlp-AutomatingCustomerSupport)
+    * [Content Marketing](#nlp-ContentMarketing)
+    * [Summarising Content](#nlp-SummarisingContent)
+    * [Researching Content](#nlp-ResearchingContent)
+    * [Social Media Monitoring](#nlp-SocialMediaMonitoring)
+    * [Natural Language Generation (NLG)](#nlp-NaturalLanguageGeneration)
+    * [Case Study – Orlando Magic NBA Team](#nlp-CaseStudyOrlandoMagicNBATeam)
+    * [The future of NLP and NLG](#nlp-TheFutureOfNLPAndNLG)
+
 #### How AI is changing industry
 
 * [Using Data and AI in Telecoms](#UsingDataAndAIInTelecoms)
@@ -1861,6 +1876,163 @@ As speech recognition technology advances, the future will evolve to a situation
 governed by means of spoken language rather than touch-based interaction, allowing more efficient and
 faster data transfer between human and machine.
 
+## <a id="NaturalLanguageProcessing">Natural Language Processing
+
+### <a id="nlp-Introduction"></a>Introduction
+
+Just about everyone will be familiar with artificial intelligence (AI) given the huge amount of buzz and hype in recent times. However, what businesses sometimes fail to grasp is the benefits that the applications of AI can bring to their business and why they need to ensure they understand them. 
+
+AI can be defined as intelligence demonstrated by machines which, on its own, isn’t actually a tangible output. In fact, AI is an umbrella term for a number of different applications that deliver the intelligence it needs. One of the rapidly emerging subfields of AI is natural language processing (NLP). In this article, we can look at what NLP is and some of the use cases being deployed in different businesses and industries. 
+
+### <a id="nlp-WhatIsNaturalLanguageProcessing"></a>What is Natural Language Processing?
+
+Natural Language Processing or NLP is an area of artificial intelligence that aims to help computers make sense of human language. It is very powerful and looks like it is going to have a massive impact on the future of how people interact with businesses and technology.  
+Humans converse without giving it a second thought. We call this natural language. For computers to interpret us correctly is incredibly difficult given the different dialects and contexts that we use to talk with one another. 
+
+The objective of NLP is to decipher, understand and make sense of human language in a way that offers business value. Most techniques rely on machine learning, another AI application, which uses data from previous interactions as a method of predicting responses. 
+It’s perhaps best to look at NLP in a practical example.
+
+
+What we see here are a number of steps linking a human to a machine via a NLP layer. 
+1.	A human interacts with the machine through speech, chat, social media or some way that involves language
+2.	The machine captures the language via the NLP Layer and sends it off to be converted into text or data
+3.	The data is processing to understand it. It will map the language to a knowledge base or data storage, analysing the most appropriate response. 
+4.	The response data is converted back into language
+5.	The machine responds to the human
+
+Take an everyday example of using an iPhone. You will see word suggestions based on what you are typing (most of us call it predictive text) which is NLP in real-time action. We take this for granted as it has been around for so long but some people really struggle to live without it. 
+
+Millions of us now own devices like Amazon Alexa and Google Home which are solely based on NLP technology. They work using what are known as Hidden Markov Models (HMM) that can determine what you’ve said and make it into something usable. Without getting too technical, they put your language into 10-20 second millisecond clips and compare that with the knowledge base. It might look for nouns, verbs and adjectives to get a view of the context as well. 
+
+
+### <a id="nlp-WhyDoBusinessesNeedToUseNaturalLanguageProcessing"></a>Why do businesses need to use natural language processing?
+
+Businesses need customers to interact and engage with them in order to survive. As the world becomes more digital, the challenge to get them to do so becomes ever greater. It is no secret that consumers are draw to social media and new technology like Chatbots. Over the last few years, this has in turn created a drastic increase in the amount of data they hold. This data would be classified as “unstructured” given that people write in different languages and formats. 
+
+Natural language processing is designed to help businesses overcome the potential language and format barriers of digital interactions. The techniques being used enable machines to understand the meaning of sentences and their context, ensuring deployed technology works efficiently. 
+For example, imagine a business decides to deploy a voice activated device like Alexa of Google Home. At face value, this is a great idea to get their customers interacting with them. However, if the technology doesn’t have the right NLP layer setup to translate voice into data, the device will send irrelevant responses. Consumers will soon stop buying from your business if the technology doesn’t work, regardless of how innovative it might be.
+
+If organisations can get it right, there are plenty of use cases for NLP. 
+
+
+### <a id="nlp-UserExperience"></a>User Experience
+
+Arguably one of the most obvious use cases for NLP is to create more user-friendly experiences. We take things like spell-checks, autocomplete and predictive text applications for granted but these are all great examples of how NLP is being used by people every day to make them more efficient. 
+
+Those of us who use predictive text on a regular basis will know that it improves over time when the user has provided the phone with more data. This is an example of how NLP and machine learning work together to create seamless process flows within technology. 
+
+
+### <a id="nlp-AutomatingCustomerSupport"></a>Automating Customer Support
+
+Chatbots are the most common technology that uses NLP as a primary function. Conversational bots are gradually taking over from live customer service agents given their ability to operate on a 24/7 basis, provide immediate and accurate answers and heavily reduce call centre resource costs.
+
+When talking about Chatbots, it refers to digital messaging platforms that respond to users on an automated basis with answers to their questions. Businesses are spending time to load these Chatbots with data and create conversation flows, enabling them to talk to customers in a very natural way. 
+
+NLP layers work to ensure that the Chatbots don’t simply provide a response but emotionally connect with the customer. For example, it can look at the way the customer forms their sentences to provide the most appropriate response and personalise it. A younger customer might say “Hey” whereas older customers might use “Hello” and the Chatbot can decide the right language to use. 
+
+This form of NLP is heavily based on data. Chatbots need to be well trained initially to operate correctly and produce the right experiences. The key reasons businesses fail in this area is due to poor data quality. There are countless papers available on how to train Chatbots effectively and we’d suggest reading those before diving in!
+Products such as that offered by Digital Genius, can split your customer messages into manageable detail as the screenshot below shows
+
+
+Using this type of categorisation, the bot software can automatically assign a ticket and direct the problem to the right area of support. When it gets things wrong, it learns from the experience and modifies how it categorises interactions next time. 
+
+### <a id="nlp-ContentMarketing"></a>Content Marketing
+
+With improvements in AI technology, NLP platforms can assist human researchers by summarising articles in real-time that could take hours or even days to complete otherwise. Beyond that, through its sophisticated algorithms, NLP will likely pick up on content that would have never been discovered beforehand. 
+
+Summarising and researching information are two of the major content marketing applications for NLP.
+
+
+### <a id="nlp-SummarisingContent"></a>Summarising Content
+
+When we talk about summarising content with NLP, it can be extractive where the system distils text into relevant parts or abstractive whereby it comes up with its own wording from the text via machine learning algorithms. As an example, consider the paragraph:
+**“John and Jane rode in a car to attend the annual event in Las Vegas. In the city, Jane gave birth to a child named Jennifer”***
+
+An extractive summary would give us; John and Jane attend event Las Vegas. Jane birth Jennifer. The words have been extracted to create a summary which although quite odd grammatically, highlights the salient points of the paragraph. 
+
+For content marketing, machine learning models can apply this technique against massive volumes of text and supply teams with details quickly. This will save a huge amount of time in deploying human resource to do that job. 
+
+However, abstractive techniques take this to the next level. Instead of just taking the important words from the phrase, abstraction involves paraphrasing and shortening parts of the source document. In essence, the machine takes the content and curates it in its own words. This helps to overcome the grammatical issues we see with extraction and provide genuine value to content marketing teams. 
+
+An abstractive summary of the sentence above would be; John and Jane came to Las Vegas where Jennifer was born. 
+The limitation right now is that developing abstractive algorithms that can be grammatically correct is incredibly difficult. This is why teams tend to rely on just the extractive methods which can be applied with relative ease as they don’t need to be any manipulation of the content. 
+
+In practice, using NLP for extractive content might take the top 50 results from a specific keyword in Excel, open up each of the links and review everything. The models will take all of that content, convert it to data and then produce a summary based on the key phrases that it discovers. It is still a great way of condensing a mass of information into understandable chunks which digital marketing teams can use. 
+
+Over time, AI is capable of learning the best order for the sentences and constructs them in a way that makes sense to a reader. This requires a lot of training data, but it will get there eventually. 
+
+
+### <a id="nlp-ResearchingContent"></a>Researching Content
+
+Marketers will probably be the first to confess that they think too much. Before they have created and developed one piece of content, they are probably already researching the next one and the next and the next one (you get the idea). The problem here is that is can lead to misplaced focus and ambiguous looking content. A lot of time is probably spent copying and pasting material from one place to another. 
+
+Many of these tasks could be done with a machine and let teams focus on the strategy and insight rather than pouring hours of time into researching information. 
+
+Machine learning algorithms can quickly review vast amounts of data and analyse the patterns or trends that are key to your industry. NLP models might be given a list of phrases or keywords to monitor the market for and return relevant research based on those. This can provide real-time insight for content marketing teams and mean they don’t need to spend hours or days finding data themselves. 
+
+If you then combine the research with what we know about how NLP summarises language, suddenly you have a very efficient process that can really augment content creation. 
+
+Over time, NLP platforms can start learning from the content you write and ensure the research and summation becomes even more relevant. 
+
+### <a id="nlp-SocialMediaMonitoring"></a>Social Media Monitoring
+
+It is vital that you know what your customers are saying about you on social media. With multiple channels out there, it is very easy to be swamped by buckets of data. NLP has the ability to monitor and respond to feedback easily. 
+
+Technology like Sprout Social listens to social media and analyses the activity surrounding your brand. For example, it will flag if you are get a high number of mentions on Twitter and recommend potential actions if necessary. 
+
+### <a id="nlp-NaturalLanguageGeneration"></a>Natural Language Generation (NLG)
+
+Natural Language Generation (NLG) is an important branch of Artificial Intelligence that is set to impact the future of NLP. Whilst NLP can research text and extract data to summarise it, NLG can take that and turn it into a written narrative. This is the core of content marketing, voice activated systems and IoT devices. NLG might quickly take us into the future of the field. 
+
+Natural Language Generation essentially uses specifically created algorithms to translate data into human-like language. This will result in the automation of news reporting, website copy and headline generation, among other tasks. A recent study by Gartner revealed that almost 20% of business-focused content will be generated solely by machines in 2018.
+
+However, this does not spell doom for fields like content marketing. It only means that content marketers will have access to superior, advanced tools and technologies, enabling them to better analyse the content they create. Deeper insights will allow teams to effectively predict content performance and patterns in audience engagement.
+
+Wherever there is a need for content generation, NLG can help. Some of the most common examples are:
+-	Written analysis for business intelligence dashboards
+-	Personalised customer communications
+-	Product descriptions and landing pages
+-	Client portfolio summaries
+
+NLG narratives are designed to be written as if they were done by a human and are usually based on a set of pre-defined rules (laid out by humans). This would be some conditional logic or triggers based on the vast amounts of data sitting behind the content. Users can edit the rules based on their digital marketing strategy but the complex algorithms are able to adapt and instantly create relevant content. 
+
+### <a id="nlp-CaseStudyOrlandoMagicNBATeam"></a>Case Study – Orlando Magic NBA Team
+
+Orlando Magic wanted to reach out to their fans with completely personalised email content. They realised that every one of their fans is different and need to be treated as individuals. They used the Wordsmith platform, a powerful NLG system that can transform data into insightful narratives. 
+
+The platform was able to take the data Orlando Magic held on each of their customers and turn that into a very specific personalised email. The emails were curated in such a way that every fan’s unique situation was taken into account when it came to ticket servicing. The result was that 80% of fans responded positively to the email they received as it was so targeted through NLG.
+
+
+Google have recently released their Gmail Smart Compose algorithm which has changed the way their users interact with the platform. As you start typing an email, the NLG models predict and suggest what you are likely to want to say next. This can range from one word to entire sentences. To apply the recommendations, users simply swipe to the right. It saves them time when constructing an email whilst avoiding errors in content. 
+
+The algorithm Google use learns from experience. If users continually reject recommendations, it won’t offer them again whilst it will always offer up the ones that they accept. The most advanced NLG systems are able to self-learn in this way without the need for human intervention after the initial rules and triggers have been set, such as the Orlando Magic case. 
+
+Put this into the context of content marketing. To start, a human set up rules, keywords or phrases that it wants the machine to research and surmise. This will be based on the digital marketing strategy and business insight. 
+
+The machine will go off and start searching for the most relevant content and extracting that information for the user. Every time it does this, the machine will learn based on what the end user decides to accept or reject. It will incrementally adjust how it does things. 
+
+Where some digital teams have dismissed NLP and NLG, it is where they expect it to be perfect from day one. Unless you have a perfect strategy and millions of rows of data straight away, this will be almost impossible. NLG takes some time to be perfect, but it will get better quickly. 
+In fact, it probably learns faster than humans ever could. 
+
+Only recently, Facebook created AI that was able to beat professional poker players. Just like NLG, it did this through incremental learning. At the start it probably only just about knew the difference between a Heart and a Diamond. 
+
+If you get everything right, suddenly you have a machine that can read, analyse, suggest and even curate content faster and more efficiently than humans have ever been able to. Marketing teams can spend time on strategy and insight and have far more satisfying jobs that don’t focus on laborious tasks.  
+
+
+### <a id="nlp-TheFutureOfNLPAndNLG "></a>The future of NLP and NLG 
+
+At the start of 2019, a non-profit AI research company backed by Elon Musk and others announced that they had built an AI model that was able to coherently writes paragraphs of text at scale. 
+
+The GPT-2 model from OpenAI learned how to write by extracting data from eight million web pages. Just think how much data that is for a second and how long it would take a human to scan that volume of information. You probably won’t even look at eight million websites in your lifetime. 
+**“The world’s best economies are directly linked to a culture of encouragement and positive feedback.”**
+
+Although it sounds like it, this is not a quote from an economist or philosopher but is generated straight from the GPT-2 model based on what it learned from its research. Below is a full extract (source Analytics Vidya) created by GPT-2.
+
+**“I called Donna and told her I had just adopted her. She thought my disclosure was a donation, but I’m not sure if Donna met the criteria. Donna was a genuinely sweet, talented woman who put her life here as a love story. I know she thanked me because I saw her from the photo gallery and she appreciated my outrage. It was most definitely not a gift. I appreciate that I was letting her care about kids, and that she saw something in me. I also didn’t have much choice but to let her know about her new engagement, although this doesn’t mean I wasn’t concerned, I am extremely thankful for all that she’s done to this country. When I saw it, I said, “Why haven’t you become like Betty or Linda?” “It’s our country’s baby and I can’t take this decision lightly.” “But don’t tell me you’re too impatient.” Donna wept and hugged me. She never expresses milk, otherwise I’d think sorry for her but sometimes they immediately see how much it’s meant to her. She apologized publicly and raised flagrant error of judgment in front of the society of hard choices to act which is appalling and didn’t grant my request for a birth certificate. Donna was highly emotional. I forgot that she is a scout. She literally didn’t do anything and she basically was her own surrogate owner.”**
+
+There is no reason why you wouldn’t think that narrative was written by a human. Quite amazing progress. 
+
+Whilst these breakthroughs are amazing, we are not saying that AI will replace the need for generating content and other human-based customer experience. It will do some tasks far more efficiently than humans ever could and must form part of data and digital strategies 
 
 # How AI is changing industry
 
