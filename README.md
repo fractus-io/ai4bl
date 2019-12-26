@@ -1934,7 +1934,10 @@ When talking about Chatbots, it refers to digital messaging platforms that respo
 NLP layers work to ensure that the Chatbots don’t simply provide a response but emotionally connect with the customer. For example, it can look at the way the customer forms their sentences to provide the most appropriate response and personalise it. A younger customer might say “Hey” whereas older customers might use “Hello” and the Chatbot can decide the right language to use. 
 
 This form of NLP is heavily based on data. Chatbots need to be well trained initially to operate correctly and produce the right experiences. The key reasons businesses fail in this area is due to poor data quality. There are countless papers available on how to train Chatbots effectively and we’d suggest reading those before diving in!
+
 Products such as that offered by Digital Genius, can split your customer messages into manageable detail as the screenshot below shows
+
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/nlp-2.png "Digital Genius")  
 
 
 Using this type of categorisation, the bot software can automatically assign a ticket and direct the problem to the right area of support. When it gets things wrong, it learns from the experience and modifies how it categorises interactions next time. 
@@ -2004,6 +2007,8 @@ NLG narratives are designed to be written as if they were done by a human and ar
 Orlando Magic wanted to reach out to their fans with completely personalised email content. They realised that every one of their fans is different and need to be treated as individuals. They used the Wordsmith platform, a powerful NLG system that can transform data into insightful narratives. 
 
 The platform was able to take the data Orlando Magic held on each of their customers and turn that into a very specific personalised email. The emails were curated in such a way that every fan’s unique situation was taken into account when it came to ticket servicing. The result was that 80% of fans responded positively to the email they received as it was so targeted through NLG.
+
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/nlp-3.png "Orlando Magic NLG")  
 
 
 Google have recently released their Gmail Smart Compose algorithm which has changed the way their users interact with the platform. As you start typing an email, the NLG models predict and suggest what you are likely to want to say next. This can range from one word to entire sentences. To apply the recommendations, users simply swipe to the right. It saves them time when constructing an email whilst avoiding errors in content. 
