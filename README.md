@@ -1,8 +1,11 @@
 
 Artificial Intelligence for Business Leaders
 
+
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/fractus-io/ai4bl/master?grs=github&t=white)
 
+
+Authors: Marc Steel & [dstar55](https://github.com/dstar55)
 
 Table of Contents
 
