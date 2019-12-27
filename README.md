@@ -132,6 +132,16 @@ Table of Contents
     * [Case Study – Orlando Magic NBA Team](#nlp-CaseStudyOrlandoMagicNBATeam)
     * [The future of NLP and NLG](#nlp-TheFutureOfNLPAndNLG)
 
+* [ChatBots](#ChatBots)
+    * [Introduction](#cb-Introduction)
+    * [About Internet of Things (IoT) Data](#cb-AboutInternetOfThingsIoTData)
+    * [About Conversational Chatbots](#cb-AboutConversationalChatbots)
+    * [Benefits of Using Conversational Chatbots with IoT Data](#cb-BenefitsOfUsingConversationalChatbotsWithIoTData)
+    * [Limitations to Using Conversational Chatbots with IoT Data](#cb-LimitationsToUsingConversationalChatbotsWithIoTData)
+    * [Using Conversational Chatbots with IoT Data](#cb-UsingConversationalChatbotsWithIoTData)
+    * [Top Conversational Chatbot Use Cases](#cb-Top ConversationalChatbotUseCases)
+    * [Summary](#bc-Summary)
+
 #### How AI is changing industry
 
 * [Using Data and AI in Telecoms](#UsingDataAndAIInTelecoms)
@@ -2044,6 +2054,99 @@ Although it sounds like it, this is not a quote from an economist or philosopher
 There is no reason why you wouldn’t think that narrative was written by a human. Quite amazing progress. 
 
 Whilst these breakthroughs are amazing, we are not saying that AI will replace the need for generating content and other human-based customer experience. It will do some tasks far more efficiently than humans ever could and must form part of data and digital strategies 
+
+## <a id="ChatBots"></a>ChatBots
+
+### <a id="cb-Introduction"></a>Introduction
+
+The digital world is growing exponentially and changing everyday life as we know it. Everybody wants to be connected, wherever they are and at any time through whichever device they want to do it with. The Internet of Things (IoT) is an enabler to do exactly that. Although some of the concepts are a little tricky to grasp, IoT itself is quite a simple notion, meaning a device or series of devices that take all the things from the world and connect them to the Internet. (McClelland, 2019)
+As soon as a device is connected to the internet, it can send and receive data to make it smart (hence smartphone). 
+
+Through using this data, the device can carry out some sort of action such as Amazon Alexa responding to a command or Google returning a search result. This report looks at how data drives IoT and the way organisations exploit the technology with conversational Chatbots. 
+
+### <a id="cb-AboutInternetOfThingsIoTData"></a>About Internet of Things (IoT) Data
+
+IoT devices are data are intrinsically related and heavily dependent on each other to create a real-world impact (Joseph, 2018). If we searched for something on Google and the results were not relevant because of poor data, would it still be the global colossus that it is today? Probably not. The amount of data worldwide is expanding constantly along with IoT adoption and it is thought that around 31 billion devices will be connected by 2020. That means that 31 billion devices are constantly sending and receiving data and organisations are moving towards Platform as a Service models (PaaS) which allow scalable cloud-based storage enabling fast as effective data processing. 
+
+The data collected from IoT devices can solve problems and there have already been successful trials (Sahu, 2018). Doctors use IoT scanners that use Big Data platforms capable of interpreting images and detecting the early signs of cancer in seconds (IoT For All, 2018). Smart Home devices such as Nest can maintain temperatures and ensure health and safety in the home. 
+Ultimately, an IoT device is only as powerful as the data it collects and analyses.
+
+### <a id="cb-AboutConversationalChatbots"></a>About Conversational Chatbots
+
+When somebody mentions the terms “conversational Chatbot” most of us probably think of Amazon Alex or Google Home. These are both great examples of voice activated IoT Chatbots but the technology is actually more far reaching that that alone. As with any other device, the Chatbot is almost entirely data driven as shown in Figure 1.3 below.
+
+Wikipedia defines a Chatbot as “a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.” After years of conversing via text messaging using a smartphone, people have become comfortable with conversational interfaces. The conversational bot (known as a Chatbot) takes that to the next level. Using data, the intelligent software is designed to make you feel like you are talking to a real person and have the ability to automate tasks that were previously done with human intervention. They use applications of artificial intelligence (AI) such as machine learning (ML) and natural language processing (NLP) to process unstructured data like speech and text, map it to a knowledge base and return an answer to the user. 
+
+For example, a user might ask a customer service Chatbot what time a store is open. The Chatbot will interpret the data, send the results to a knowledge store or large data storage bank, analyse the matches and send back the most likely result. The best Chatbots will be 99.9% accurate and it is almost impossible to determine whether they are a human or robot. The accuracy all depends on the quality of data feeding them and the ongoing maintenance of the knowledge base, as well as the technical algorithms between those processes. 
+
+
+### <a id="cb-BenefitsOfUsingConversationalChatbotsWithIoTData"></a>Benefits of Using Conversational Chatbots with IoT Data
+
+Chatbots go together perfectly with IoT devices and data. They have a predefined workflow and help drive engagement and facilitate faster conversions by answering questions or even offering suggestions. The main scenario we see them in is customer supports. (Kar et al 2018)
+
+**“By 2020, the average person will have more conversations with bots than with their spouse, in fact, it is estimated that 85% of interactions will be with Chatbots.” (Gartner)**
+
+Some of the most common applications are seen in booking flights or tickets, searching for hotels and events, ordering food and buying clothes. Whilst the objectives are different the key concept of using data to present a decision or recommendation with the need for human intervention remains the same. Beyond this, using data with IoT devices has a major benefit over human resource; they never need to have a break. 
+
+Assuming they have requisite storage and are switched on, cloud servers are fully operative 24/7, in line with the demand of IoT users. Customers don’t want to wait for a company executive to help them with their query, they want results there and then. Having an intelligent Chatbot with a maintained knowledge base enables full-time availability, increasing revenue as a reduced cost, where fewer staff are required. 
+
+A further benefit of using data in IoT devices is the application of machine learning. This is the process of using historical data and taking the experience to make decisions. For example, if a retailer sells a series of products at different price points and the data shows customers have never purchased if the price goes over $10, the machine will know not to offer that. However, if customers start spending more, the machine might look to change the price points accordingly, learning from the data experience. 
+Algorithms used within data can update themselves without any training requirement. As long as the quality of data is strong, they won’t make mistakes and provide a far better experience to the IoT user. Chatbots can even provide these responses instantly rather than an agent having to research a topic or review paper documents perhaps.
+
+### <a id="cb-LimitationsToUsingConversationalChatbotsWithIoTData"></a>Limitations to Using Conversational Chatbots with IoT Data
+
+Whilst Chatbots come with several benefits when used with IoT data, they also inherently come with challenges and limitations. 
+
+First and foremost is the technology landscape of IoT which is going through a period of constant change.  Where the new IoT devices have a growing number of sensors, nodes and networks, Chatbots have a quite daunting challenge when it comes to gaining enough technical knowledge to interact with all the different components. Cloud and Multi-Cloud environments mean that data might be stored in different locations and in multiple contexts also posing challenges for encryption and security. 
+
+A further challenge with Chatbots is the need for being multi-lingual given the widescale reach of IoT devices. Not only does the knowledge base need to contain quality data, but it requires this information in multiple languages to suit the user of the IoT device being used. Chatbots need to be able to respond to phrases in various contexts and cultures which could require substantial coding and database maintenance. (Kar et al, 2016)
+
+As well as these limitations, [UX Collective](https://Chatbot.fail/) give various reasons why Chatbots fail such as not being able to understand emotional context or not having the correct AI infrastructure. Companies often deploy Chatbots as they seem like the “cool” thing to do without realising that they only succeed with a strong data foundation.
+
+### <a id="cb-UsingConversationalChatbotsWithIoTData"></a>Using Conversational Chatbots with IoT Data
+
+Whilst Chatbots have mainly been used in consumer facing environments they have also started to prove useful within Industrial IoT and software development. This is because it has become easily to integrate them with existing platforms like Facebook Messenger, Slack, Skype or even into a website. (Fagella 2019)
+
+The Microsoft Bot Ecosystem (Figure 1.5) consists of a Bot Framework (Boyd, 2017) to create the flows, a Bot Connector to integrate with the users preferred communication channels, Microsoft Cognitive Services that use AI to process the input data and Microsoft Language Understanding Services. Platforms such as this allows users to create a Chatbot using familiar development code bases like C++ and Java. 
+
+There are many uses cases now for Chatbots that rely on data. Concierge tells users if they are receiving the best travel pricing, communicating via mobile, website or Slack. GWYN is a development by IBM Watson that allows users to find the perfect gift via a Chatbot and place the order online. Th H&M Clothing Chatbot helps uses find the perfect outfit, matching data to customer profiles via at app. 
+
+Conversational Chatbots are becoming mainstream in many industry to manage customer support and experience and given their potential for cost saving, speed and learning, the art of human to human conversation could easily die out over the next decade. 
+
+
+### <a id="cb-Top ConversationalChatbotUseCases"></a>Top Conversational Chatbot Use Cases
+
+Whilst most use cases tend to be in customer services as that is where businesses see the biggest impact, there are plenty of other ways that conversational Chatbots can be deployed. These are some of the main ones that we see today that we haven’t mentioned yet in this article but show there is more to the technology than meets the eye. 
+
+#### Automating Transactions
+
+Retailers are using Chatbots to allow customers to complete transactions online without human interaction. The major benefits here come in saving the cost of labour and the fact that consumers don’t have to spend time on a phone call, improving their experience in most cases. MasterCard have an AI application that allows their customers to check their account balance, setup alerts and pay their bill. 
+
+#### Marketing
+
+Chatbots can think more like marketers than a traditional customer service agent would be able to do. With access to massive amounts of data and knowledge, Chatbots have the potential to upsell, cross-sell and recommend products. For example, if an existing customer is using your Chatbot, it can provide responses based on their previous behaviours and purchase patterns using experience it has gathered from data. A Chatbot can do this almost instantly whereas a customer service agent would have to spend time reviewing the account. Figure 1.6 shows an example from HelloFresh where the Chatbot provides a response based on the type of customer.
+
+#### Supporting Social
+
+Facebook Messenger is one of the most popular platforms for developing Chatbots. One of the key reasons for that is the ability to support Facebook Marketing and Ads. For example, a Facebook Ad can have a call to action that automatically directs a user to their Facebook Messenger Chatbot. This allows the user to do everything on one site and, with the mass of data Facebook have available, be given a truly personalised experience. Chatbots are a bit like hallowed ground for marketers.
+
+#### Human Resources
+
+HR departments are using Chatbots to monitor employee satisfaction. Integrations such as Polly will ask staff questions each day to get a better understanding of how happy and engaged they are. This is far more productive than 6 monthly or annual surveys that only gather responses at a very specific moment in time. Other applications in HR are with booking holidays and notifying of absences rather than requiring phone calls or emails. 
+
+#### IT
+
+IT teams use Chatbots to facilitate helpdesk enquiries and respond to common questions. The objective of this is to ensure employees are not having to answer simple queries and instead, focus on more complex and skilled tasks. 
+Other applications currently on the market include investment management automation, credit applications or money transfers as well as travel tips or accommodation bookings. Companies are continually finding more bespoke use cases that will continue to creep into our lives. 
+
+### <a id="bc-Summary"></a>Summary
+
+Chatbots are one of the most revolutionary technologies of the 21st century given the impact they have had across several applications. However, there is still a long way to go before they are perfect. 
+
+The majority of Chatbots are still responding to questions and although they do that very well, it doesn’t quite have the same feeling as an interaction with a human. The bots of the future will talk, think and draw insights from the knowledge they gain. In this way, they will build emotional connections with people rather than just being able to respond to requests. 
+
+As consumers continue to prefer Chatbot communications over and above other channels, investments in the technology will continue to grow. Businesses need to ensure they have a strategy in place to work with AI and keep up with the competition.
+
 
 # How AI is changing industry
 
