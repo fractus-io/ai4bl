@@ -139,7 +139,7 @@ Table of Contents
     * [Benefits of Using Conversational Chatbots with IoT Data](#cb-BenefitsOfUsingConversationalChatbotsWithIoTData)
     * [Limitations to Using Conversational Chatbots with IoT Data](#cb-LimitationsToUsingConversationalChatbotsWithIoTData)
     * [Using Conversational Chatbots with IoT Data](#cb-UsingConversationalChatbotsWithIoTData)
-    * [Top Conversational Chatbot Use Cases](#cb-Top ConversationalChatbotUseCases)
+    * [Top Conversational Chatbot Use Cases](#cb-TopConversationalChatbotUseCases)
     * [Summary](#bc-Summary)
 
 #### How AI is changing industry
@@ -2114,7 +2114,7 @@ There are many uses cases now for Chatbots that rely on data. Concierge tells us
 Conversational Chatbots are becoming mainstream in many industry to manage customer support and experience and given their potential for cost saving, speed and learning, the art of human to human conversation could easily die out over the next decade. 
 
 
-### <a id="cb-Top ConversationalChatbotUseCases"></a>Top Conversational Chatbot Use Cases
+### <a id="cb-TopConversationalChatbotUseCases"></a>Top Conversational Chatbot Use Cases
 
 Whilst most use cases tend to be in customer services as that is where businesses see the biggest impact, there are plenty of other ways that conversational Chatbots can be deployed. These are some of the main ones that we see today that we haven’t mentioned yet in this article but show there is more to the technology than meets the eye. 
 
