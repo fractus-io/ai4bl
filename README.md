@@ -142,6 +142,15 @@ Table of Contents
     * [Top Conversational Chatbot Use Cases](#cb-TopConversationalChatbotUseCases)
     * [Summary](#bc-Summary)
 
+* [Robots](#Robots)
+    * [Introduction](#rob-Introduction)    
+	* [What is a robot and what is robotics?](#rob-WhatIsARobotAndWhatIsRobotics)
+	* [How does a robot work?](#rob-HowDoesARobotWork)
+	* [A brief history of robots](#rob-ABriefHistoryOfRobots)
+	* [Artificial Intelligence, Machine Learning and Automation](#rob-ArtificialIntelligenceMachineLearningAndAutomation)
+	* [Robots Industry Use Cases](#rob-RobotsIndustryUseCases)
+	* [The Future of Robotics](#rob-TheFutureOfRobotics)
+
 #### How AI is changing industry
 
 * [Using Data and AI in Telecoms](#UsingDataAndAIInTelecoms)
@@ -2176,6 +2185,118 @@ Chatbots are one of the most revolutionary technologies of the 21st century give
 The majority of Chatbots are still responding to questions and although they do that very well, it doesn’t quite have the same feeling as an interaction with a human. The bots of the future will talk, think and draw insights from the knowledge they gain. In this way, they will build emotional connections with people rather than just being able to respond to requests. 
 
 As consumers continue to prefer Chatbot communications over and above other channels, investments in the technology will continue to grow. Businesses need to ensure they have a strategy in place to work with AI and keep up with the competition.
+
+
+## <a id="Robots"></a>Robots
+
+### <a id="rob-Introduction"></a>Introduction
+	
+Whilst in the last decade there has been a lot of hype around how robots are taking over, they have actually been part of our lives for almost 100 years. In fact, some say that you could pin the theories of robotics all the way back to the Ancient Egyptians with their water clocks being one of the very first examples of machinery use. Further examples have existed through time with the likes of Da Vinci, De Vaucanson and Kauffman inventing automated ways of doing things.
+
+In this article, we look at the history, present and future of robotics from 1921, when writer Karel Capek first used the term “robot”, accelerating the field as we know it. 
+
+### <a id="rob-WhatIsARobotAndWhatIsRobotics?"></a>What is a robot and what is robotics?
+
+The term robot is quite ambiguous and every website you look at, seems to have a variation on the definition. In general, a robot is a machine that is capable of carrying out both routine and complex actions that are programmed by engineers. In theory, everyday objects like dishwashers, ovens and thermostats are all robots but they have become so engrained in life that we don’t really see them as part of the “robotics” school anymore. However, today, expert definitions of a robot are going a bit beyond the household dishwasher.
+
+Robots are able to do three things. Sense, compute and act. Although the scale of these things varies widely between robots, it differentiates them from standard machines like a dishwasher. Using something like sonar, robots may be able to sense the world around them. Some will have multiple sensors and cameras with different functions whereas others could just have one to carry out a single task. Similarly, where it comes to computing, robots will have anything from a single chip, all the way up to a clustered network of systems. When robots need to act, some will move around and others may just be deployed to manipulate things. 
+
+***One of the key differentiators between what a robot is and what a robot is not would be the idea of a “feedback loop.”***
+
+A robot is in a constant cycle of sensing, computing and acting. Feedback is what makes machines smart and in turn, makes them into a robot. This is known as the field of robotics.
+
+#### What is Robotics?
+
+Robotics is a branch of technology that deals with robots. Robots are programmable machines which are usually able to carry out a series of actions autonomously, or semi-autonomously. They can interact with the physical world via sensors or actuators. Robotics is often confused with artificial intelligence (AI) due to sci-fi movies such as Terminator portraying a far higher level of singularity than is actually present in the real-world. 
+
+However, robotics requires the human programming of robots with a defined set of rules. These robots are not artificially intelligent in their own right. For example, you could build a robot to pick up an object and place it somewhere else. That is robotics. However, an AI programmed robot would be able to use a camera to recognise an object independently, understand what the item is and decide on where it should go. 
+
+Robotics is the part that builds the robots and AI involves programming it with some sort of intelligence.
+
+### <a id="rob-HowDoesARobotWork"></a>How does a robot work?
+
+In theory, on a physical level, a robot works exactly the same way as a human being. A robot will have a moveable structure, a motor, power supply and a computer chip which acts like its brain. Humans have muscles and senses that do all these things. A robot has the components to replicate human-like behaviours.
+
+Robots are built will moving parts. These can range from very complex systems, consisting of dozens of parts to those with only a single wheel. They are usually made of metal or plastic and are constructed with joints just like the human body. To move the joints, robots are fitted with something called an actuator. Wikipedia defines an actuator as below;
+
+***“An actuator is a component of a machine that is responsible for moving and controlling a mechanism or system, for example by opening a valve. In simple terms, it is a "mover". An actuator requires a control signal and a source of energy.”***
+
+To power the actuator, robots tend to have a battery or can plug into the wall depending on their purpose i.e. you can’t really plug a robot designed to move into a wall as it quickly becomes impractical. Everything is then wired into an electrical circuit. This powers the motors and any hydraulic systems. 
+
+The computer built into the robot programs its actions. This will control everything that has been built into the circuits. The majority are reprogrammable through written code that is put onto the chips. Robots are fitted with sensors to integrate all of this together and form what we know as robotics. 
+
+#### Autonomous Robots
+
+In the last few years, there has been a rise in the autonomous robot. You may have seen the robots that can vacuum your home with human intervention. They robots will use a bumper sensor to detect obstacles. When the robot hits something, the sensor is activated, telling the programming to make it change direction or go backwards. Every time the robot hits something, it goes in a different direction. It can do this until such a point it runs out of battery. Infra-red sensors can take this a step further and make the robot aware of an obstacle before it strikes it. 
+
+Recently, artificial intelligence (AI) has taken this automation to a new level. We will come onto that shortly after a brief history of robots
+
+### <a id="rob-ABriefHistoryOfRobots"></a>A brief history of robots
+
+Starting from the penning of the term in 1921, robot have come a long way in the course of a century. We’ve already spoken about the standard make-up of a robot and how they have moved into automation. The future firmly lies in AI but let’s quickly see how we got there. There are many events beyond those below but we’ve tried to highlight the key ones in the timeline. 
+*	1921 – Karel Capek coins the term robot to describe automata in fiction
+*	1942 – Isaac Asimov pens the term “robotics” to describe the field. The three laws of robotics (famed in the movie “I, Robot” are coined by Asimov.
+*	1950 – George Devol invented the first industrial robot, Unimate, to transport die castings from an assembly line. 
+*	1960s and 70s – a lot of innovation in the field was around the use of robotics arms to complete tasks in the field of medicine. 
+*	1971 – Mars 2 was the first robot to land on Mars (even if it did crash land!)
+*	1984 – Wabot-2 was created as the first robot capable of playing the organ
+*	1994 – the CyberKnife robot was able to conduct surgery
+*	2002 – Roomba the robotic vacuum cleaner was first released commercially.
+*	2005 – Self driving cars make their first appearance but are not very successful at this point
+*	2017 – a robot called Sophia was granted Saudi Arabian citizenship 
+
+Move in to 2019 and engineers at the University of Pennsylvania created millions of nanorobots in just a few weeks using technology borrowed from semiconductors. These microscopic robots, small enough to be hypodermically injected into the human body and controlled wirelessly, could one day deliver medications and perform surgeries, revolutionizing medicine and health.
+
+### <a id="rob-ArtificialIntelligenceMachineLearningAndAutomation"></a>Artificial Intelligence, Machine Learning and Automation
+
+Robotics is at a state that engineers are quite comfortable with building robots and they can spend more time focussing on the software that can make them more powerful. With efficient AI and algorithms, robots won’t ever be able to do anything particularly ground-breaking.
+Consider an everyday device like Amazon Alexa. Essentially it is a black box sitting on the table at home. All the clever work is done by AI and its applications like machine learning and natural language processing in the background. 
+
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/rob-1.png "Amazon Alexa")  
+###### Amazon Alexa
+
+An AI robot works in the same way (Alexa would be considered a voice-activated device as opposed to a robot). A sensor will gather information from the environment. This information could be data, images, voice or video for example. This information processed by powerful computers making use of modern cloud infrastructures and new technology like edge computing. The AI system can analyse the information and return a response in milliseconds. 
+
+In machine learning, AI will compare the new information to all data it has been previously programmed with to work out the best and most relevant action. As the robot carries out more activities, it learns from that and continually adds to its knowledge base. 
+
+For example, in September 2019, OpenAI created an AI program that could teach itself how to play the children’s game of hide and seek. At the start, with only some programmed data, the virtual game yielded poor results with the hiders often getting caught. However, after thousands of experiments, the AI began to learn how to use obstacles to its advantage and evade capture. A robot does the same. It will remember the bad choices it makes and improve on them next time round. 
+
+The benefits of robotics are perhaps best explained through some industry use cases. 
+
+### <a id="rob-RobotsIndustryUseCases"></a>Robots Industry Use Cases
+
+#### Smart Homes
+
+The Roxxter range of robotic vacuum cleaners from Bosch are leveraging AI to be more efficient. They can draw interactive maps of their environment, like a built-in GPS system. As well as that, they integrate with Alexa for voice-activated control. 
+
+Olly is a robot built by EuroTech that uses AI to recognise users and their emotions during use. It is ale to proactively start a conversation after recognising how the user might be feeling through its camera sensors (known as computer vision). It can predict what music the user might want to listen to based on their mood. 
+
+#### Agriculture
+
+In agriculture, drones are being deployed to improve the efficiency of farming. Farmers can deploy a robotic drone to scan the terrain or even plant seeds. This can be done at a much faster rate than a human could ever achieve. Using sensors, the drone can take pictures of the land. AI systems can analyse those images in real-time to ensure the farmer is getting the best possible yield. For example, it can ascertain what the best crops would be for the current conditions or provide feedback on potential pests. 
+
+#### Factory and Manufacturing
+
+The smart factory is expected to be one of the biggest developments when it comes to AI and robotics. Machines with integrated AI can be much more efficient, cost effective and productive. One example is in predictive maintenance. Sensors can collect machine data which is analysed in real-time. From that, it is possible to see if any maintenance is required based on historical data and automatic action are taken. 
+
+#### Healthcare
+
+AI can be programmed with knowledge on how to conduct surgical procedures. This will come from existing images and videos which can help computer systems know exactly what to do. When integrated with robotics, there is no risk of tiredness or shaky hands, meaning better accuracy with procedures. Surgeons can oversee the procedure rather than carrying it out as long as they are confident in the programmed software.
+
+Recently, the US Department of Defense funded research at Canergie Mellon University to create an autonomous robot that can treat injured soldiers in remote location using such AI systems. 
+
+#### Service, Sales and Retail
+
+The Amazon fulfilment centres make use of AI and robotics. When a customer places an order, the sensors on the robots at the fulfilment centre allow them to move autonomously to find the right product. It will take the items to the edge of a fenced off robotic field where workers will pick them up ready for distribution. Even second saved by a robot is a massive cost reduction for Amazon given their millions of orders each year. 
+
+Amazon have also purchased Canvas Technology who created automated robots that know where to move products in the warehouse. 
+
+
+### <a id="rob-TheFutureOfRobotics"></a>The Future of Robotics
+
+	
+	
+	
 
 
 # How AI is changing industry
