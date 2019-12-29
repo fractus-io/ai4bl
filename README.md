@@ -2062,22 +2062,46 @@ Whilst these breakthroughs are amazing, we are not saying that AI will replace t
 The digital world is growing exponentially and changing everyday life as we know it. Everybody wants to be connected, wherever they are and at any time through whichever device they want to do it with. The Internet of Things (IoT) is an enabler to do exactly that. Although some of the concepts are a little tricky to grasp, IoT itself is quite a simple notion, meaning a device or series of devices that take all the things from the world and connect them to the Internet. (McClelland, 2019)
 As soon as a device is connected to the internet, it can send and receive data to make it smart (hence smartphone). 
 
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/cb-1.png "A high level overview of how IoT devices function")  
+###### A high level overview of how IoT devices function
+
+
 Through using this data, the device can carry out some sort of action such as Amazon Alexa responding to a command or Google returning a search result. This report looks at how data drives IoT and the way organisations exploit the technology with conversational Chatbots. 
 
 ### <a id="cb-AboutInternetOfThingsIoTData"></a>About Internet of Things (IoT) Data
 
-IoT devices are data are intrinsically related and heavily dependent on each other to create a real-world impact (Joseph, 2018). If we searched for something on Google and the results were not relevant because of poor data, would it still be the global colossus that it is today? Probably not. The amount of data worldwide is expanding constantly along with IoT adoption and it is thought that around 31 billion devices will be connected by 2020. That means that 31 billion devices are constantly sending and receiving data and organisations are moving towards Platform as a Service models (PaaS) which allow scalable cloud-based storage enabling fast as effective data processing. 
+IoT devices are data are intrinsically related and heavily dependent on each other to create a real-world impact (Joseph, 2018). If we searched for something on Google and the results were not relevant because of poor data, would it still be the global colossus that it is today? 
+Probably not. The amount of data worldwide is expanding constantly along with IoT adoption and it is thought that around 31 billion devices will be connected by 2020. 
+That means that 31 billion devices are constantly sending and receiving data and organisations are moving towards Platform as a Service models (PaaS) which allow scalable cloud-based storage enabling fast as effective data processing. 
 
-The data collected from IoT devices can solve problems and there have already been successful trials (Sahu, 2018). Doctors use IoT scanners that use Big Data platforms capable of interpreting images and detecting the early signs of cancer in seconds (IoT For All, 2018). Smart Home devices such as Nest can maintain temperatures and ensure health and safety in the home. 
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/cb-2.png "Microsoft Azure example of how IoT uses cloud computing ")  
+###### Microsoft Azure example of how IoT uses cloud computing 
+
+
+The data collected from IoT devices can solve problems and there have already been successful trials (Sahu, 2018). 
+Doctors use IoT scanners that use Big Data platforms capable of interpreting images and detecting the early signs of cancer in seconds (IoT For All, 2018). 
+Smart Home devices such as Nest can maintain temperatures and ensure health and safety in the home. 
 Ultimately, an IoT device is only as powerful as the data it collects and analyses.
 
 ### <a id="cb-AboutConversationalChatbots"></a>About Conversational Chatbots
 
-When somebody mentions the terms “conversational Chatbot” most of us probably think of Amazon Alex or Google Home. These are both great examples of voice activated IoT Chatbots but the technology is actually more far reaching that that alone. As with any other device, the Chatbot is almost entirely data driven as shown in Figure 1.3 below.
+When somebody mentions the terms “conversational Chatbot” most of us probably think of Amazon Alex or Google Home. 
+These are both great examples of voice activated IoT Chatbots but the technology is actually more far reaching that that alone. 
+As with any other device, the Chatbot is almost entirely data driven as shown in Figure 1.3 below.
 
-Wikipedia defines a Chatbot as “a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.” After years of conversing via text messaging using a smartphone, people have become comfortable with conversational interfaces. The conversational bot (known as a Chatbot) takes that to the next level. Using data, the intelligent software is designed to make you feel like you are talking to a real person and have the ability to automate tasks that were previously done with human intervention. They use applications of artificial intelligence (AI) such as machine learning (ML) and natural language processing (NLP) to process unstructured data like speech and text, map it to a knowledge base and return an answer to the user. 
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/cb-3.png "How Alexa works with data (Ovenden 2018)")  
+###### How Alexa works with data (Ovenden 2018) 
 
-For example, a user might ask a customer service Chatbot what time a store is open. The Chatbot will interpret the data, send the results to a knowledge store or large data storage bank, analyse the matches and send back the most likely result. The best Chatbots will be 99.9% accurate and it is almost impossible to determine whether they are a human or robot. The accuracy all depends on the quality of data feeding them and the ongoing maintenance of the knowledge base, as well as the technical algorithms between those processes. 
+
+Wikipedia defines a Chatbot as “a computer program or an artificial intelligence which conducts a conversation via auditory or textual methods.
+” After years of conversing via text messaging using a smartphone, people have become comfortable with conversational interfaces. 
+The conversational bot (known as a Chatbot) takes that to the next level. Using data, the intelligent software is designed to make you feel like you are talking to a real person and have the ability to automate tasks that 
+were previously done with human intervention. They use applications of artificial intelligence (AI) such as machine learning (ML) and natural language processing (NLP) to 
+process unstructured data like speech and text, map it to a knowledge base and return an answer to the user. 
+
+For example, a user might ask a customer service Chatbot what time a store is open. 
+The Chatbot will interpret the data, send the results to a knowledge store or large data storage bank, analyse the matches and send back the most likely result. 
+The best Chatbots will be 99.9% accurate and it is almost impossible to determine whether they are a human or robot. The accuracy all depends on the quality of data feeding them and the ongoing maintenance of the knowledge base, as well as the technical algorithms between those processes. 
 
 
 ### <a id="cb-BenefitsOfUsingConversationalChatbotsWithIoTData"></a>Benefits of Using Conversational Chatbots with IoT Data
@@ -2113,6 +2137,9 @@ There are many uses cases now for Chatbots that rely on data. Concierge tells us
 
 Conversational Chatbots are becoming mainstream in many industry to manage customer support and experience and given their potential for cost saving, speed and learning, the art of human to human conversation could easily die out over the next decade. 
 
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/cb-4.png "Example of the Microsoft Bot Framework")  
+###### Example of the Microsoft Bot Framework
+
 
 ### <a id="cb-TopConversationalChatbotUseCases"></a>Top Conversational Chatbot Use Cases
 
@@ -2125,6 +2152,9 @@ Retailers are using Chatbots to allow customers to complete transactions online 
 #### Marketing
 
 Chatbots can think more like marketers than a traditional customer service agent would be able to do. With access to massive amounts of data and knowledge, Chatbots have the potential to upsell, cross-sell and recommend products. For example, if an existing customer is using your Chatbot, it can provide responses based on their previous behaviours and purchase patterns using experience it has gathered from data. A Chatbot can do this almost instantly whereas a customer service agent would have to spend time reviewing the account. Figure 1.6 shows an example from HelloFresh where the Chatbot provides a response based on the type of customer.
+
+![alt text](https://github.com/fractus-io/ai4bl/blob/master/course/assets/image/cb-5.png "How HelloFresh do Marketing on a Chatbot")  
+###### How HelloFresh do Marketing on a Chatbot
 
 #### Supporting Social
 
