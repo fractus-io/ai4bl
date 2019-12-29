@@ -99,7 +99,7 @@ Table of Contents
 		* [Transportation](#cv-Transportation)
 		* [Retail](#cv-Retail)
 		* [Agriculture](#cv-Agriculture)
-		* [FinancialServices](#cv-FinancialServices)
+		* [Financial Services](#cv-FinancialServices)
 	* [Summary](#cv-Summary)
 
 * [Speech Recognition](#sr-SpeechRecognition)
