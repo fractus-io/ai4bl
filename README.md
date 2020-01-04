@@ -6,7 +6,7 @@ Artificial Intelligence for Business Leaders
 
 
 These are the materials for training **Artificial Intelligence for Business Leaders**, developed by [deepdemo.ai](http://www.deepdemo.ai) and published under [MIT licence](https://github.com/fractus-io/ai4bl/blob/master/LICENSE).   
-[deepdemo.ai](http://www.deepdemo.ai) is brand owned by [fractus.io](http://www.fractus.io) focusing on promotion and democratzation of the Deep Learning.
+[deepdemo.ai](http://www.deepdemo.ai) is brand owned by [fractus.io](http://www.fractus.io) focusing on promotion and democratization of the Deep Learning.
 
 Authors: Marc Steel & [dstar55](https://github.com/dstar55)
 
