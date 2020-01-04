@@ -5,6 +5,9 @@ Artificial Intelligence for Business Leaders
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/fractus-io/ai4bl/master?grs=github&t=white)
 
 
+These are the materials for training **Artificial Intelligence for Business Leaders**, developed by [deepdemo.ai](deepdemo.ai) and published under [MIT licence](https://github.com/fractus-io/ai4bl/blob/master/LICENSE).
+[deepdemo.ai](deepdemo.ai) is brand owned by [] focusing on promotion and democratzation of the Deep Learning.
+
 Authors: Marc Steel & [dstar55](https://github.com/dstar55)
 
 Table of Contents
