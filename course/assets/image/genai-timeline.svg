@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#131c31"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="18" fill="url(#bg)"/>
+  <text x="60" y="62" font-size="30" font-weight="700" fill="#f8fafc">The Road to Generative AI</text>
+  <text x="60" y="92" font-size="15" fill="#94a3b8">a decade of research became an overnight revolution</text>
+
+  <!-- timeline axis -->
+  <line x1="90" y1="230" x2="1110" y2="230" stroke="#334155" stroke-width="3"/>
+  <polygon points="1110,230 1096,222 1096,238" fill="#334155"/>
+
+  <!-- 2017 -->
+  <circle cx="150" cy="230" r="9" fill="#38bdf8"/>
+  <text x="150" y="196" font-size="18" font-weight="700" fill="#38bdf8" text-anchor="middle">2017</text>
+  <text x="150" y="262" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="middle">The transformer</text>
+  <text x="150" y="282" font-size="12" fill="#94a3b8" text-anchor="middle">Google research paper:</text>
+  <text x="150" y="298" font-size="12" fill="#94a3b8" text-anchor="middle">"Attention Is All You Need"</text>
+
+  <!-- 2020 -->
+  <circle cx="330" cy="230" r="9" fill="#38bdf8"/>
+  <text x="330" y="196" font-size="18" font-weight="700" fill="#38bdf8" text-anchor="middle">2020</text>
+  <text x="330" y="262" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="middle">GPT-3</text>
+  <text x="330" y="282" font-size="12" fill="#94a3b8" text-anchor="middle">large language models</text>
+  <text x="330" y="298" font-size="12" fill="#94a3b8" text-anchor="middle">show surprising abilities</text>
+
+  <!-- 2022 highlight -->
+  <circle cx="530" cy="230" r="14" fill="url(#hot)"/>
+  <circle cx="530" cy="230" r="22" fill="none" stroke="#34d399" stroke-opacity="0.35" stroke-width="3"/>
+  <text x="530" y="188" font-size="20" font-weight="800" fill="#34d399" text-anchor="middle">Nov 2022</text>
+  <text x="530" y="160" font-size="15" font-weight="700" fill="#f8fafc" text-anchor="middle">ChatGPT</text>
+  <text x="530" y="270" font-size="13" font-weight="600" fill="#e2e8f0" text-anchor="middle">100 million users in 2 months</text>
+  <text x="530" y="290" font-size="12" fill="#94a3b8" text-anchor="middle">AI becomes usable by anyone —</text>
+  <text x="530" y="306" font-size="12" fill="#94a3b8" text-anchor="middle">the business world wakes up</text>
+
+  <!-- 2023 -->
+  <circle cx="730" cy="230" r="9" fill="#a78bfa"/>
+  <text x="730" y="196" font-size="18" font-weight="700" fill="#a78bfa" text-anchor="middle">2023-24</text>
+  <text x="730" y="262" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="middle">The copilot era</text>
+  <text x="730" y="282" font-size="12" fill="#94a3b8" text-anchor="middle">AI embedded in Office,</text>
+  <text x="730" y="298" font-size="12" fill="#94a3b8" text-anchor="middle">email, code and search</text>
+
+  <!-- 2025 -->
+  <circle cx="920" cy="230" r="9" fill="#a78bfa"/>
+  <text x="920" y="196" font-size="18" font-weight="700" fill="#a78bfa" text-anchor="middle">2025</text>
+  <text x="920" y="262" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="middle">The agent era begins</text>
+  <text x="920" y="282" font-size="12" fill="#94a3b8" text-anchor="middle">AI that plans and acts;</text>
+  <text x="920" y="298" font-size="12" fill="#94a3b8" text-anchor="middle">coding agents go mainstream</text>
+
+  <!-- 2026 -->
+  <circle cx="1080" cy="230" r="9" fill="#34d399"/>
+  <text x="1080" y="196" font-size="18" font-weight="700" fill="#34d399" text-anchor="middle">2026</text>
+  <text x="1080" y="262" font-size="14" font-weight="600" fill="#e2e8f0" text-anchor="middle">The agentic web</text>
+  <text x="1080" y="282" font-size="12" fill="#94a3b8" text-anchor="middle">agents browse, work</text>
+  <text x="1080" y="298" font-size="12" fill="#94a3b8" text-anchor="middle">and pay on our behalf</text>
+
+  <text x="600" y="392" font-size="12" fill="#64748b" text-anchor="middle">AI for Business Leaders — 2026 update</text>
+</svg>

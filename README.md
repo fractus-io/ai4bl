@@ -2533,26 +2533,26 @@ Agriculture based firms are seeking to use AI technology to boost productivity a
 According to UN projections, food production is going to have to increase by as much as 70% with climate change, population growth and food security concerns. With that in mind, agriculture firms need to seek innovative solutions if they are to fulfil the demand. 
 This article discusses some of the way in which AI is supporting the agriculture industry.
 
-<a id="aiia-DriverlessVehicles"></a>Driverless vehicles
+###  <a id="aiia-DriverlessVehicles"></a>Driverless vehicles
 
 Autonomous vehicles have been talked about for a long time and there have been various public trials from companies like Uber and Tesla. Farming is also expected to benefit from driverless tractors. 
 A driverless tractor will operate without human intervention and work continuously and efficiently based on a defined set of rules. This means farmers don’t have to take up their time carrying out the monotonous tasks and safety concerns around using equipment are negated. 
 A supervisor will still need to monitor the progress at this stage until the technology advances again and some trials are considered remote controls.
 
-<a id="aiia-ImageRecognition"></a>Image Recognition
+###  <a id="aiia-ImageRecognition"></a>Image Recognition
 
 Drone technology has started to be used for industrial purposes. Most off us will have heard how the technology is being piloted in delivering goods e.g. Amazon but there is also an opportunity within agriculture.
 Drones can be used to take images of crops and monitor the production cycle at every stage. These images will be tagged and converted to data. That data can be used for making recommendations and decisions, exposing potential issues. For example, it might pick up on pests or irrigation problems that a farmer could be otherwise unaware of. 
 Farmers can spend less time surveying their crops and more time thinking about production. In large farms, drones can scout much larger areas of land than humans could in a shorter time and more accurately. Drone technology will ultimately pay for itself quickly and is worth the initial investment.
 
-<a id="aiia-BigData"></a>Big Data
+###  <a id="aiia-BigData"></a>Big Data
 
 Data is the essence of all things to do with agriculture. AI-based sensor equipment can be deployed which monitors temperature, soil conditions, rainfall or invasions over time. The data collected will be sent back to a processor and analysed. Cloud computing platforms have the ability to store and provide insight on incredibly large datasets. 
 Using all of the information, farmers can be presented with the optimal time to grow their seeds so as to maximise production. This can improve return on investment and reduce the likelihood of wasted yield.
 Sensors can also detect weeds and work out which herbicides need to be applied. The result of this is a reduction off toxins that find their way into food. 
 Forecasting is integral within farming, especially in smaller countries where they don’t have as much knowledge or access to the right technology. The irony here is that these smaller farms are also responsible for as much as 70% of the world’s crops. If we are able to start predicting seasonality and weather patterns, the smaller farms can benefit from improved crops and continue to thrive. 
 
-<a id="aiia-PrecisionFarming"></a>Precision Farming
+###  <a id="aiia-PrecisionFarming"></a>Precision Farming
 
 Precision farming is the umbrella term used for methods involving AI, data and new technology.  It is best explained through the 4 R’s.
 -	Right Source – matches the fertiliser type to crop needs
@@ -2561,19 +2561,19 @@ Precision farming is the umbrella term used for methods involving AI, data and n
 -	Right Place – keep nutrients where crops can use them
 The method relies on having the right technology in place to optimise agricultural health and productivity with a goal of sustaining and protecting the environment. It uses everything we have already talked about including drones, sensors and vast volumes of data. Precision farming used to be something only larger businesses would be able to deploy but mobile apps, cloud computing, edge computing and advanced infrastructures are starting to make it commonplace.
 
-<a id="aiia-Robotics"></a>Robotics
+###  <a id="aiia-Robotics"></a>Robotics
 
 Let’s face it, it is rare to find somebody who lists farming as their dream job. Traditionally, farms might be family owned businesses and plenty of people would live on or nearby the land. Today, that is not the case and there is a workforce shortage.
 AI agriculture bots are being deployed to augment the human workforce. Bots are being used to harvest crops and can do so at a faster pace and for longer than humans have ever been able to. They can also identify weeds more accurately and reduce potential costs for the farm. 
 Robots are being utilised within picking and packing areas that would have previously required manual labour as well. Again, they can do this faster than humans and work 24/7 meaning a far greater productivity rate. Hours of manual labour are eliminated.
 
-<a id="aiia-CaseStudyNatureFreshFarms"></a>Case Study – NatureFresh Farms
+###  <a id="aiia-CaseStudyNatureFreshFarms"></a>Case Study – NatureFresh Farms
 
 Across almost 200 acres of greenhouses in Ohio and Ontario, NatureFresh Farms’ are a great example of using almost every facet of AI they have at their disposal. Robotic cameras are being used to collect images of plants and feeding the data through to algorithms that detect when they will be fully ripe vegetables. 
 Sensors are measuring variables like temperature of the crops as well as the amount of water and fertiliser that it needs. Workers can simply adjust the settings using a smartphone app based on what the data recommends they do. This has reduced an hour of work into only 5 minutes. 
 The same data is used to create forecasts for harvests and yield with scenarios adapted to potential climate changes. All food is tagged so that the end recipient knows exactly where it came from and can quickly respond if there is any problem with the crop. This will use technology similar to Blockchain which is perfect for picking up on contaminated food and already in operation within large supermarket chains.
 
-<a id="aiia-Summary"></a>Summary
+###  <a id="aiia-Summary"></a>Summary
 
 Without a doubt, AI is helping farms run more efficiently. Technology likes bots and drones can revolutionise efficiencies and productivity whilst ensuring more accurate decisions are made to optimise yields. With a demand for more food, investment in agricultural AI technology is important for the future and whilst change is tough, those in the sector need to start moving quickly.
 	
@@ -2585,32 +2585,32 @@ Advanced equipment like the Internet of Things (IoT) and the Industrial Internet
 Cloud computing and the access to real-time analytics are bringing more significant advantages to manufacturing and are being accelerated through innovative technology such as Blockchain and 5G.
 This article looks at the manufacturing industries and where the opportunities lie for those in the sector.   
 
-<a id="aiiman-IndustrialInternetOfThings"></a>Industrial Internet of Things
+###  <a id="aiiman-IndustrialInternetOfThings"></a>Industrial Internet of Things
 
 When we talk about the Internet of Things (IoT), it refers to any device or service that is connected to the Internet. This could be our Smartphone, Amazon Echo or even streaming services like Netflix and Spotify. Whilst IIoT is also associated with connectivity, it relates to the large number of industrial devices that are filled with sensors, connected via wireless networks to gather and share data with each other. 
 
-<a id="aiiman-PreventativeVsPredictiveMaintenance"></a>Preventative vs Predictive Maintenance
+###  <a id="aiiman-PreventativeVsPredictiveMaintenance"></a>Preventative vs Predictive Maintenance
 
 Traditionally, machine optimisation and repairs within an industrial environment would be conducted in a scheduled manner. In performing regular maintenance, the chance of the equipment failing is minimised. It’s the same reason you might take a car for an annual check-up. It is based on assumptions that a machine or its components will degrade over time. Companies might use some data like looking at the average time between previous failures, but it is quite limited. The problem here is that carrying out maintenance just because it is scheduled may not be necessary and costs a business money.
 A predictive maintenance strategy is determined by the condition of equipment rather than assumptions on its degradation. It will try to predict failure before it even happens. Predictive maintenance systems use sensors to monitor and analyse industrial data like machinery and return information about productivity levels, consumption or status. The data can be used to make decisions on whether maintenance is required without necessarily completing such tasks on a preventative schedule. 
 Predictive maintenance is founded on an application of artificial intelligence known as machine learning. This takes large sets of historical data, often referred to as training data to run different scenarios and predict what is likely to go wrong and when the events will happen. 
 As the machine algorithms learn, they will recognise potential problems without the need for any human intervention. For example, if a temperature of 50 degrees always causes a machine to break, it could automatically switch off without the need for human analysis. 
 
-<a id="aiiman-UsingRealTimeData"></a>Using real-time data
+###  <a id="aiiman-UsingRealTimeData"></a>Using real-time data
 
 According to Fero Labs, typical manufacturing companies discard 98% of the data they can collect because they simply can’t integrate it into their operations.  
 Hitachi is one company that have been trying to tap into their unused data. This has unlocked data that they were not aware of in the past, tracking many more variables with AI sensors. 
 Real time monitoring of these variables will allow immediate intervention before an issue arises. Let’s say that you have a sensor in place monitoring the vibrations of a machine. Increased vibrations can be a sign that components are failing but having just one data point in isolation when the numbers hit a specified alert won’t be enough to prevent problems.
 Other common use cases are in infrared thermography, motor condition analysis, precision balancing and laser alignment. Realistically, anything that uses data has its own case for a predictive maintenance strategy. 
 
-<a id="aiiman-GenerativeDesign"></a>Generative Design
+###  <a id="aiiman-GenerativeDesign"></a>Generative Design
 
 Companies like Autodesk are using AI for what is known as generative design. Creating a new product or part can take companies weeks, months or even years. Using AI, experiments and recommendations could in theory be generated in seconds that greatly speed up the process.
 In generative design, a developer or engine would start by inputting all of their variables like performance and spatial requirements, materials, manufacturing methods and cost constraints. Software, like Autodesk will provide all the different permutations for a solution, quickly showing any potential alternatives. 
 Beyond just making suggestions, the software will learn from the iterations and optimise the experiment as it tries to find the perfect solution. 
 A computer will generate thousands of designs in the time a human can create one. Some of them will be things that weren’t even thought to be a possibility. In doing this and resolving any constraints, designers and engineers can focus their time on innovating and developing better process strategies.
 
-<a id="aiiman-Robotics"></a>Robotics
+###  <a id="aiiman-Robotics"></a>Robotics
 
 A report from the International Federation of Robotics predicted that by the end of 2018, there would be more than 1.3 million industrial robots at work in factories all over the world. It is unknown as to whether this came into fruition but deployment of such technology has certainly accelerated in the last 12 to 24 months.
 The objective, in theory, is that robots can carry out the repetitive jobs done by humans allowing workers to be trained for more complex roles in design or programming. The key to success in robotics is a collaborative environment. We are not in a position where robots can operate completely without humans and there is a strong case supporting that we would not want that to happen. 
@@ -2716,7 +2716,7 @@ Over time, we can expect cars to start losing physical number plates as they bec
 Pilotless planes have been talked about already, but the challenge will be in gaining public trust for such a huge innovation. Whilst there arguably isn’t much a pilot needs to do during travel (without disrespecting what they do), having nobody there might cross a mark just now. 
 However, the way we travel is likely to change with proposals for digital passports based on face scanners at airports and tracking baggage via GPS to ensure it never gets lost.
 
-<a id="aiitra-Summary"></a>Summary
+###  <a id="aiitra-Summary"></a>Summary
 
 AI brings a number of benefits to the transportation industry. With the ability to improve efficiency, provide better customer experiences and reduce accidents to name a few benefits, AI will be a driving force over the next decade in the sector. This article only considers some of the main developments with robot police cars, driver assist programs, AI taxi hailing and smart highways all on the industry radar.
 According to the US transportation research board, emerging applications of AI in transportation planning are in travel behavioural models, city infrastructure design and planning, and demand modelling for public and cargo transport. On-demand services like Uber are also likely to start moving to entirely autonomous services over time as long as they have more successful trials.
@@ -2780,7 +2780,7 @@ The AI hype is real and financial services is amongst one of the most highly inv
 
 Artificial Intelligence (AI) is changing the dynamic of many industries and one of those at the very forefront is travel. As businesses seek to improve their efficiency and create more personalised customer experiences, travel is one sector that has the ability to generate a lot of investor excitement. 
 
-<a id="travel-ChatbotsAndVirtualAssistants"></a>Chatbots and virtual assistants
+###  <a id="travel-ChatbotsAndVirtualAssistants"></a>Chatbots and virtual assistants
 
 Conversational bots, sometimes known as virtual assistances are becoming very important to the travel industry. 
 Bookings are a major problem for hotels with reports suggesting that only one in twenty potential reservations are actually being taken up. Chatbots are trying to buck the trend. Applications like Hijiffy which is using the Facebook Messenger platform allow users to ask questions and get instant responses. For example, they can ask about the destination, available services and even book a room, all through the popular messaging app. 
@@ -2789,37 +2789,37 @@ In providing real-time, accurate a conversational support, hotels are able to re
 Similar technology can be used in the hotel room by responding to guests’ questions. Imagine having an Amazon Alexa or Google Home in your room as standard for example. IBM Watson is trying to take this even further as you’ll see below. 
 Chatbots are also a great way for collating customer feedback that they would not have proactively provided.
 
-<a id="travel-Connie"></a>Connie
+###  <a id="travel-Connie"></a>Connie
 
 Hilton hotels have deployed Connie, a robot concierge to help visitors at the front desk. It has been developed using the IBM Watson technology. Guests can ask Connie questions about where to go, where to dine or how to find something at the hotel. This means there isn’t a need for somebody to be on the desk 24/7 and provides a great cost saving whilst maintaining customer satisfaction. 
 In time, as it learns, Hilton hope that Connie has recognise the faces of guests and remember previous conversations, taking it to the next level of artificial intelligence. If it can truly delight the customers in this way, it will be revolutionary for the travel industry. If a flight has arrived later, IBM have the power to recognise that and offer specific services. The same applies to behaviours like offering breakfast or treats to guests proactively. 
 
-<a id="travel-Recommendations"></a>Recommendations
+###  <a id="travel-Recommendations"></a>Recommendations
 
 Through the popularity of sites such as TripAdvisor as well as social media, recommendations have become highly important within the travel industry. It would be very unlikely for somebody to book a holiday without looking for reviews of some kind first. 
 Research from Booking.com has shown that one third of customers would now be comfortable in letting a computer plan their next trip based on information from their travel history. Using this data, travel brands can create very tailored recommendations based on unique preferences.
 Going a step further than that, Utrip (powered by TUI Group) can recommend a full itinerary for trips based on user preferences. It can filter through millions of potential combinations to accomplish this. 
 
-<a id="travel-ImprovedSearch"></a>Improved Search
+###  <a id="travel-ImprovedSearch"></a>Improved Search
 
 Online travel agents are using a technology known as computer vision to improve search mechanisms on their site. They do this by optimising the tags used within their listings. For example, a hotel might tag their property as having a “beach view” and any searches will return them in results. 
 Tagging is very important for remaining competitive. This is truer as consumers edge towards voice search over traditional typed text searches. Travel sites need to consider what comes will be searching for in a voice context which can be very different to text. 
 
-<a id="travel-SmartCruises"></a>Smart Cruises
+###  <a id="travel-SmartCruises"></a>Smart Cruises
 
 Carnival cruises have developed a solution based almost entirely on AI for their trips. The company operates more than 100 ships and travels to over 740 destinations across the globe. 
 On the cruise ships, they are using wearable technology to create a seamless customer experience. The project is led by John Padgett who was responsible for bringing similar innovations to Disney, allowing visitors to quickly find and see their favourite characters.
 The wearable technology, called the Ocean Medallion, relies on 7,000 sensors placed on the ship and hundreds of miles of cables. Passengers are connected to all of these things to display personalised recommendations and experiences. Across the ship there are over 4,000 digital interaction points. 
 Investment into these devices will no doubt extend to other companies given the overwhelming success of Carnival.
 
-<a id="travel-DataDataData"></a>Data, data, data
+###  <a id="travel-DataDataData"></a>Data, data, data
 
 Almost everything in travel creates vast amounts of data. As well as travellers, planes, trains, ships and cars are generating data through an enormous number of sensors every single second. Understanding that data can help to improve efficiency, remove processes and eliminate costs. 
 For example, Boeing is using augmented reality so that engineers can see circuit diagrams placed over planes to find possible faults. Cruise ships are using data to find possible engine failures as early as 10 months before they even happen. As well as ensuring safety, it helps to avoid traveller disappointment and cancellations. 
 AI applications are using data to create alerts for areas where security could be a problem. Travel apps can tell travellers about dangerous places or image recognition in CCTV can ensure people avoid certain areas. 
 As we gather more data, the process efficiency in travel will continue to improve.
 
-<a id="travel-Summary"></a>Summary
+###  <a id="travel-Summary"></a>Summary
 
 AI is changing the entire ecosystem of the travel industry right now. Chatbots are taking over bookings and assistance, planning platforms can generate personalised itineraries and guests are getting a truly unique experience. On top of this, operational improvements are making AI a very investable technology for those involved in the travel industry. 
 The key to success will be in using AI wisely. It is designed as an aide to human interaction and not a replacement. Those who can best work out how the two compliment each other will be the ones who succeed.
@@ -2906,6 +2906,8 @@ This new wave is called generative AI because instead of just classifying or pre
 
 The following sections explain what happened, in the same plain terms as the rest of this course, and update the picture of who matters in AI today.
 
+![The road to generative AI](course/assets/image/genai-timeline.svg)
+
 ###  <a id="WhatAreLargeLanguageModels"></a>What are Large Language Models?
 
 The technology behind the revolution is called the large language model, or LLM. In 2017, researchers at Google published a paper describing a new neural network design called the transformer. Without going into the mathematics, the transformer proved to be exceptionally good at one deceptively simple task: given a piece of text, predict what word should come next.
@@ -2949,6 +2951,8 @@ A few terms come up in every meeting about AI. Here is what they mean in plain l
 ###  <a id="TheNewWhoIsWhoInAI"></a>The new who's who in AI
 
 The earlier chapter on big companies described Google, Amazon, Facebook and Apple. That picture needs a significant update.
+
+![The new who's who of AI](course/assets/image/ai-whos-who.svg)
 
 -	OpenAI: the maker of ChatGPT and the GPT model family, backed by billions in investment from Microsoft. It turned from a research lab into one of the most valuable private companies in the world.
 -	Anthropic: founded in 2021 by former OpenAI researchers with a focus on AI safety. Its Claude models are widely used in business settings and it has become a leader in AI for software development.
@@ -3193,13 +3197,7 @@ The second level is augmentation: better decisions and better work, not just fas
 
 The third level is transformation: products, services and business models that were not possible before. A software firm selling outcomes instead of seats, a services firm packaging its expertise into an AI product, a manufacturer selling predictive uptime rather than machines.
 
-```mermaid
-flowchart TD
-    L1["Level 1: EFFICIENCY<br/>Same work, cheaper and faster<br/>drafts, summaries, routine answers<br/><i>where everyone starts - and most stall</i>"]
-    L2["Level 2: AUGMENTATION<br/>Better work and better decisions<br/>AI combined with YOUR data and expertise<br/><i>harder to copy</i>"]
-    L3["Level 3: TRANSFORMATION<br/>New products, services, business models<br/>not possible before AI<br/><i>changes your competitive position</i>"]
-    L1 --> L2 --> L3
-```
+![Three levels of AI ambition](course/assets/image/ai-ambition-levels.svg)
 
 An honest strategy names the level you are pursuing and why. A useful board exercise: if AI makes intelligence abundant and cheap in our industry, what becomes scarce and valuable? The answers, trusted relationships, proprietary data, regulatory position, brand, speed of execution, are where the strategy should point. And write down what you will NOT do: unbounded AI ambitions consume budgets precisely because everything looks possible.
 

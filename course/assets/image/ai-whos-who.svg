@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#131c31"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="560" rx="18" fill="url(#bg2)"/>
+  <text x="60" y="62" font-size="30" font-weight="700" fill="#f8fafc">The New Who's Who of AI</text>
+  <text x="60" y="92" font-size="15" fill="#94a3b8">the players every business leader should know — 2026</text>
+
+  <!-- row 1 -->
+  <g>
+    <rect x="35" y="120" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="35" y="120" width="7" height="120" rx="3.5" fill="#10a37f"/>
+    <text x="62" y="158" font-size="23" font-weight="800" fill="#10a37f">OpenAI</text>
+    <text x="62" y="188" font-size="13.5" fill="#cbd5e1">ChatGPT and the GPT models.</text>
+    <text x="62" y="208" font-size="13" fill="#94a3b8">The company that started the boom,</text>
+    <text x="62" y="225" font-size="13" fill="#94a3b8">backed by Microsoft billions.</text>
+  </g>
+  <g>
+    <rect x="420" y="120" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="420" y="120" width="7" height="120" rx="3.5" fill="#d97757"/>
+    <text x="447" y="158" font-size="23" font-weight="800" fill="#d97757">Anthropic</text>
+    <text x="447" y="188" font-size="13.5" fill="#cbd5e1">The Claude models.</text>
+    <text x="447" y="208" font-size="13" fill="#94a3b8">AI safety focus; a leader in business</text>
+    <text x="447" y="225" font-size="13" fill="#94a3b8">use and AI for software development.</text>
+  </g>
+  <g>
+    <rect x="805" y="120" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="805" y="120" width="7" height="120" rx="3.5" fill="#4285F4"/>
+    <text x="832" y="158" font-size="23" font-weight="800" fill="#4285F4">Google DeepMind</text>
+    <text x="832" y="188" font-size="13.5" fill="#cbd5e1">The Gemini models.</text>
+    <text x="832" y="208" font-size="13" fill="#94a3b8">Invented the transformer; AI across</text>
+    <text x="832" y="225" font-size="13" fill="#94a3b8">Search and Google Workspace.</text>
+  </g>
+
+  <!-- row 2 -->
+  <g>
+    <rect x="35" y="265" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="35" y="265" width="7" height="120" rx="3.5" fill="#00A4EF"/>
+    <text x="62" y="303" font-size="23" font-weight="800" fill="#00A4EF">Microsoft</text>
+    <text x="62" y="333" font-size="13.5" fill="#cbd5e1">Copilot, everywhere.</text>
+    <text x="62" y="353" font-size="13" fill="#94a3b8">The distributor of AI to the corporate</text>
+    <text x="62" y="370" font-size="13" fill="#94a3b8">world through Microsoft 365 and Azure.</text>
+  </g>
+  <g>
+    <rect x="420" y="265" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="420" y="265" width="7" height="120" rx="3.5" fill="#0668E1"/>
+    <text x="447" y="303" font-size="23" font-weight="800" fill="#0668E1">Meta</text>
+    <text x="447" y="333" font-size="13.5" fill="#cbd5e1">The Llama models.</text>
+    <text x="447" y="353" font-size="13" fill="#94a3b8">Formerly Facebook; releases open</text>
+    <text x="447" y="370" font-size="13" fill="#94a3b8">models that anyone can download and run.</text>
+  </g>
+  <g>
+    <rect x="805" y="265" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="805" y="265" width="7" height="120" rx="3.5" fill="#76B900"/>
+    <text x="832" y="303" font-size="23" font-weight="800" fill="#76B900">NVIDIA</text>
+    <text x="832" y="333" font-size="13.5" fill="#cbd5e1">The chips behind it all.</text>
+    <text x="832" y="353" font-size="13" fill="#94a3b8">Virtually every leading model trains on</text>
+    <text x="832" y="370" font-size="13" fill="#94a3b8">its GPUs; the quiet winner of the boom.</text>
+  </g>
+
+  <!-- row 3 -->
+  <g>
+    <rect x="35" y="410" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="35" y="410" width="7" height="120" rx="3.5" fill="#FF7000"/>
+    <text x="62" y="448" font-size="23" font-weight="800" fill="#FF7000">Mistral AI</text>
+    <text x="62" y="478" font-size="13.5" fill="#cbd5e1">Europe's AI champion.</text>
+    <text x="62" y="498" font-size="13" fill="#94a3b8">Paris-based lab known for efficient,</text>
+    <text x="62" y="515" font-size="13" fill="#94a3b8">open models and EU data sovereignty.</text>
+  </g>
+  <g>
+    <rect x="420" y="410" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="420" y="410" width="7" height="120" rx="3.5" fill="#e2e8f0"/>
+    <text x="447" y="448" font-size="23" font-weight="800" fill="#e2e8f0">xAI</text>
+    <text x="447" y="478" font-size="13.5" fill="#cbd5e1">The Grok models.</text>
+    <text x="447" y="498" font-size="13" fill="#94a3b8">Elon Musk's AI lab, integrated</text>
+    <text x="447" y="515" font-size="13" fill="#94a3b8">with the X platform.</text>
+  </g>
+  <g>
+    <rect x="805" y="410" width="360" height="120" rx="14" fill="#1e293b"/>
+    <rect x="805" y="410" width="7" height="120" rx="3.5" fill="#4D6BFE"/>
+    <text x="832" y="448" font-size="23" font-weight="800" fill="#4D6BFE">DeepSeek</text>
+    <text x="832" y="478" font-size="13.5" fill="#cbd5e1">The 2025 shock.</text>
+    <text x="832" y="498" font-size="13" fill="#94a3b8">Chinese lab that matched top models at a</text>
+    <text x="832" y="515" font-size="13" fill="#94a3b8">fraction of the cost — the race is global.</text>
+  </g>
+</svg>
