@@ -17,7 +17,7 @@ Table of Contents
 #### Introduction
 
 * [What is AI](#WhatIsArtificialIntelligence)
-  * [What is Artificial Intelligence](#WhatIsArtificialIntelligence)
+  * [What is Artificial Intelligence](#wiai-WhatIsArtificialIntelligence)
   * [Applications of AI](#ApplicationsOfAI)
   * [Companies that use AI](#CompaniesThatUseAI)
   * [The future prospect of AI](#TheFutureProspectOfAI)
@@ -45,12 +45,12 @@ Table of Contents
 	* [Conclusion](#aimladl-Conclusion)
 * [Machine Learning Algorithms](#MachineLearningAlgorithms)
 	* [Introduction](#mla-Introduction)
-	* [Machine Learning Algorithms](#MachineLearningAlgorithms)
+	* [Machine Learning Algorithms](#mla-MachineLearningAlgorithms)
 * [Neural Networks](#NeuralNetworks)
 	* [Introduction](#nn-Introduction)
 	* [Types Of The Neural Networks](#TypesOfTheNeuralNetworks)
 	* [Summary](#nn-Summary)
-* [Why AI is taking off](WhyAIIsTakingOff)
+* [Why AI is taking off](#WhyAIIsTakingOff)
 	* [Introduction](#waiito-Introduction)
 	* [AI Is Only Just Starting](#AIIsOnlyJustStarting)
 	* [AI Deployments Will Continue To Accelerate](#AIDeploymentsWillContinueToAccelerate)
@@ -114,7 +114,7 @@ Table of Contents
 		* [1970-1980](#1970-1980)
 		* [1980-1990](#1980-1990)
 		* [1990-2000](#1990-2000)
-		* [Post–2000](#Post–2000)
+		* [Post–2000](#Post-2000)
 	* [Use Cases of the Speech Recognition](#UseCasesOfTheSpeechRecognition)
 		* [Telecommunication](#ucosr-Telecommunication)
 		* [Education](#ucosr-Education)
@@ -211,7 +211,7 @@ Table of Contents
 	* [Image Recognition](#aiiret-ImageRecognition)
 	* [Robotics](#aiiret-Robotics)
 	* [Amazon Go](#aiiret-AmazonGo)
-	* [Mind-Reading](#aiiret-Mind-Reading)
+	* [Mind-Reading](#aiiret-MindReading)
 	* [Receipts](#aiiret-Receipts)
 	* [Removing Efforts](#aiiret-RemovingEfforts)
 	* [Summary](#aiiret-Summary)
@@ -336,7 +336,7 @@ Table of Contents
 
 ## <a id="WhatIsArtificialIntelligence"></a>What is AI
 
-###  <a id="WhatIsArtificialIntelligence"></a>What is Artificial Intelligence 
+###  <a id="wiai-WhatIsArtificialIntelligence"></a>What is Artificial Intelligence 
 
 When people talk about artificial intelligence (AI), their mind often goes straight to the movies. 
 They seem to think that some company is going to create Skynet and manufacture Terminators to initiate the extinction of humanity. 
@@ -528,7 +528,7 @@ In fact, for all the history of AI, the last ten years have been huge, creating 
 It is difficult to imagine life without AI in the modern digital world. This is quite an amazing feat when we considered the tumultuous times of the 
 last century.
 
-## <a id="FutureofAI)"></a>Future of the AI
+## <a id="FutureofAI"></a>Future of the AI
 
 ###  <a id="foai-Introduction"></a>Introduction 
 
@@ -737,7 +737,7 @@ This article talks about some of the most popular technical algorithms used in m
 neural networks used for deep learning.
 
 
-###  <a id="MachineLearningAlgorithms"></a>Machine Learning Algorithms
+###  <a id="mla-MachineLearningAlgorithms"></a>Machine Learning Algorithms
 
 When you start trying to learn Data Science and begin to research programming platforms like R and Python it can be intimidating. A lot of the techniques come with multiple page definitions and descriptions and it is very difficult to put the detail into a practical use case. If you dream of becoming a true expert and earning the big salaries, you will definitely need to have a handle of the ins and outs of everything but as a starter, this brief guide attempts to define a realistic beginning.
 https://blog.usejournal.com/machine-learning-algorithms-use-cases-72646df1245f
@@ -1391,7 +1391,7 @@ Although Apple are, and for the foreseeable future will be a huge power in the t
 lacking against their core competition. They need to think about releasing something big soon at the risk of falling short where 
 Google, Amazon and Facebook are all powering ahead.
 
-## <a id="The AIStartupsScene"></a>The AI Startups Scene
+## <a id="TheAIStartupsScene"></a>The AI Startups Scene
 
 ###  <a id="taiss-Introduction"></a>Introduction
 
@@ -2282,7 +2282,7 @@ Whilst in the last decade there has been a lot of hype around how robots are tak
 
 In this article, we look at the history, present and future of robotics from 1921, when writer Karel Capek first used the term “robot”, accelerating the field as we know it. 
 
-### <a id="rob-WhatIsARobotAndWhatIsRobotics?"></a>What is a robot and what is robotics?
+### <a id="rob-WhatIsARobotAndWhatIsRobotics"></a>What is a robot and what is robotics?
 
 The term robot is quite ambiguous and every website you look at, seems to have a variation on the definition. In general, a robot is a machine that is capable of carrying out both routine and complex actions that are programmed by engineers. In theory, everyday objects like dishwashers, ovens and thermostats are all robots but they have become so engrained in life that we don’t really see them as part of the “robotics” school anymore. However, today, expert definitions of a robot are going a bit beyond the household dishwasher.
 
@@ -2966,6 +2966,15 @@ The first stage was the chatbot: you ask, it answers, you copy the result into y
 
 The distinction matters commercially. Chatbots save minutes, copilots save hours, and agents can take over entire workflows. The final chapter of this course is dedicated to where the agent era is heading.
 
+```mermaid
+flowchart LR
+    A["Chatbot<br/>(2022-2023)<br/>You ask, it answers.<br/>Human does the driving."] --> B["Copilot<br/>(2023-2025)<br/>AI embedded in your tools.<br/>Drafts, you finish."]
+    B --> C["Agent<br/>(2025- )<br/>Give it a goal.<br/>It plans, acts, reports back."]
+    A -.-> D[saves minutes]
+    B -.-> E[saves hours]
+    C -.-> F[takes over workflows]
+```
+
 ###  <a id="PhysicalAI"></a>Physical AI: the robotics renaissance
 
 The earlier chapter on robots described industrial arms performing repetitive programmed tasks. Generative AI is now giving robots something they always lacked: the ability to understand instructions in plain language and adapt to situations they were not explicitly programmed for. The industry calls this physical AI.
@@ -2985,6 +2994,17 @@ Generative AI is a general-purpose technology, like electricity or the internet,
 For most corporations, the question is not whether to use AI but how to use the AI already included in the platforms they run on. Since a majority of enterprises standardise on Microsoft 365 (formerly Office 365) for email, documents and collaboration, Microsoft's AI offering is the most practical starting point for many readers of this course. This chapter explains the Microsoft AI landscape in plain terms: what the products actually do, how they are licensed, and what to consider before rolling them out.
 
 Microsoft's position rests on its partnership with OpenAI, in which it has invested over thirteen billion dollars since 2019. In exchange, Microsoft gained the right to embed OpenAI's models across its products, while increasingly adding its own and other vendors' models. The result is branded Copilot, a name Microsoft now applies to AI assistants across its entire product family.
+
+The Microsoft AI offering is easiest to understand as four layers, from ready-to-use to fully custom:
+
+```mermaid
+flowchart TD
+    A["Copilot Chat<br/>Secure general AI assistant<br/>included with Microsoft 365 - for every employee"]
+    B["Microsoft 365 Copilot<br/>AI inside Word, Excel, Outlook, Teams<br/>paid add-on - grounded in your company data"]
+    C["Copilot Studio<br/>Build your own agents<br/>little or no programming - for business teams"]
+    D["Azure AI Foundry<br/>Custom AI applications<br/>full control - for your developers"]
+    A -->|"more capability, more effort"| B --> C --> D
+```
 
 ###  <a id="Microsoft365Copilot"></a>Microsoft 365 Copilot: AI inside the tools you already use
 
@@ -3056,6 +3076,17 @@ The third step arrived in 2024 and 2025 with coding agents such as Claude Code, 
 ###  <a id="WhatACodingAgentActuallyDoes"></a>What a coding agent actually does
 
 A useful mental model for a non-technical leader: a coding agent behaves like a capable contractor who has just joined your team. Given an assignment, it first reads the relevant parts of your existing code to understand conventions, then proposes an approach, then implements it, testing as it goes. Good practice keeps a human engineer in the loop at two points: agreeing the approach and reviewing the final work before it ships.
+
+```mermaid
+flowchart LR
+    T["Task assigned<br/>by engineer"] --> R["Agent reads<br/>the codebase"] --> P["Agent proposes<br/>a plan"]
+    P --> H1{"Human<br/>approves?"}
+    H1 -->|yes| W["Agent writes code<br/>and runs tests"]
+    W -->|"tests fail: agent fixes and retries"| W
+    W --> H2{"Human<br/>reviews"}
+    H2 -->|approved| S["Ships"]
+    H2 -->|changes needed| W
+```
 
 The quality of results depends heavily on the same things human contractors depend on: clear requirements, a well-organised codebase and good automated tests. Companies with disciplined engineering practices are seeing dramatically better results from AI than companies with messy ones, an underappreciated argument for engineering quality that CFOs now have a reason to care about.
 
@@ -3161,6 +3192,14 @@ The first level is efficiency: the same work, done cheaper and faster. AI drafts
 The second level is augmentation: better decisions and better work, not just faster work. Sales teams briefed by AI on every account, underwriters with AI-assessed risk, engineers supervising coding agents. Value here comes from combining AI with your proprietary data and expertise, which is much harder to copy.
 
 The third level is transformation: products, services and business models that were not possible before. A software firm selling outcomes instead of seats, a services firm packaging its expertise into an AI product, a manufacturer selling predictive uptime rather than machines.
+
+```mermaid
+flowchart TD
+    L1["Level 1: EFFICIENCY<br/>Same work, cheaper and faster<br/>drafts, summaries, routine answers<br/><i>where everyone starts - and most stall</i>"]
+    L2["Level 2: AUGMENTATION<br/>Better work and better decisions<br/>AI combined with YOUR data and expertise<br/><i>harder to copy</i>"]
+    L3["Level 3: TRANSFORMATION<br/>New products, services, business models<br/>not possible before AI<br/><i>changes your competitive position</i>"]
+    L1 --> L2 --> L3
+```
 
 An honest strategy names the level you are pursuing and why. A useful board exercise: if AI makes intelligence abundant and cheap in our industry, what becomes scarce and valuable? The answers, trusted relationships, proprietary data, regulatory position, brand, speed of execution, are where the strategy should point. And write down what you will NOT do: unbounded AI ambitions consume budgets precisely because everything looks possible.
 
@@ -3302,6 +3341,18 @@ For businesses, one question is worth asking now: when agents visit you instead 
 ###  <a id="AgenticPayments"></a>Agentic Payments
 
 Commerce follows capability: if agents shop, agents must pay, and letting software spend money autonomously is the sharpest trust problem of the agentic era. The payments industry is treating it accordingly, and seriously. Standards are emerging, Google's Agent Payments Protocol (AP2), developed with dozens of payment and technology firms, the x402 approach for machine-to-machine micropayments, and agent-commerce initiatives from Visa, Mastercard, PayPal and Stripe, all built around the same core idea: cryptographically verifiable mandates. In plain terms, the human signs a delegation, "this agent may spend up to this amount on this kind of purchase", the agent's transactions carry that proof, and disputes can be resolved by checking what was actually authorised.
+
+```mermaid
+sequenceDiagram
+    participant H as Human
+    participant A as AI Agent
+    participant M as Merchant / Payment network
+    H->>A: Signs a mandate: "may spend up to 800 EUR on flights to Berlin"
+    A->>M: Finds flight, submits payment with proof of mandate
+    M->>M: Verifies the mandate cryptographically
+    M-->>A: Payment accepted (within limits)
+    A-->>H: Reports: booked, 640 EUR, receipt attached
+```
 
 The design goal across all of these is an auditable chain from human intent to money movement: who delegated, what limits applied, what the agent did. For consumers this may eventually feel mundane, an agent that watches for flights under a price cap and books within its mandate. For businesses, procurement within policy, subscriptions that renegotiate themselves, machine-speed settlement between companies' agents. The honest status report: real standards, real pilots, real money behind the build-out, and early-stage adoption, with liability rules and consumer protections still being worked out. Finance leaders should put agentic payments on the watch list next to the fraud controls from the security chapter, because the same technology that lets your agent pay lets a compromised agent pay, and mandate limits are the seatbelt.
 
